@@ -1,0 +1,11 @@
+id,user_id,is_active,location,address,province,city_id,city,district,sub_district,contact_name,contact_phone_number,created_at,updated_at,deleted_at
+1,1,True,POINT(107.0398657 -6.7659606),"Gg. Ahmad Yani No. 5, Ciputri, Pacet",Jawa Barat,1,Cianjur,Pacet,Ciputri,"Ahmad Yani","081234567890",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+2,2,False,POINT(106.7740555 -6.6479596),"Jalan Ciumbuleuit No. 5, Sukamantri, Tamansari",Jawa Barat,2,Bogor,Tamansari,Sukamantri,"Budi Santoso","081234567891",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+3,3,False,POINT(106.7392062 -6.2834328),"Jl. Pelajar Pejuang No. 582, Pondok Ranji, Ciputat Timur",Banten,3,Tangerang Selatan,Ciputat Timur,Pondok Ranji,"Citra Dewi","081234567892",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+4,4,True,POINT(106.4819223 -6.3001572),"Jalan Stasiun Wonokromo No. 7, Jambe, Jambe",Banten,4,Tangerang,Jambe,Jambe,"Dedi Wijaya","081234567893",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+5,5,False,POINT(106.9758087 -6.405248),"Jalan Jayawijaya No. 3, Mekarsari, Cileungsi",Jawa Barat,2,Bogor,Cileungsi,Mekarsari,"Eka Putra","081234567894",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+6,6,True,POINT(106.8578557 -6.5448602),"Jl. Jend. Sudirman No. 855, Kadumangu, Babakan Madang",Jawa Barat,2,Bogor,Babakan Madang,Kadumangu,"Fajar Hidayat","081234567895",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+7,7,True,POINT(106.4328946 -6.1182922),"Jalan Cikutra Barat No. 19, Rancailat, Kresek",Banten,4,Tangerang,Kresek,Rancailat,"Gina Lestari","081234567896",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+8,8,False,POINT(106.6910609 -6.1919562),"Jl. Cikutra Barat No. 9, Gondrong, Cipondoh",Banten,4,Tangerang,Cipondoh,Gondrong,"Hadi Saputra","081234567897",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+9,9,False,POINT(107.1336245 -6.2254556),"Gg. Pasir Koja No. 60, Sukaasih, Sukatani",Jawa Barat,5,Bekasi,Sukatani,Sukaasih,"Ika Wulandari","081234567898",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,
+10,10,True,POINT(106.801514 -6.1915361),"Gg. Wonoayu No. 5, Slipi, Palmerah",DKI Jakarta,6,Jakarta Barat,Palmerah,Slipi,"Joko Widodo","081234567899",2024-09-24 10:46:38.715538+0700,2024-09-24 10:46:38.715538+0700,

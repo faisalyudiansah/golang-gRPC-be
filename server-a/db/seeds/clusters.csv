@@ -1,0 +1,1851 @@
+id,province,city_id,city,district,subdistrict
+1,Jawa Barat,55,Kota Bekasi,Bantargebang,Bantargebang
+2,Jawa Barat,55,Kota Bekasi,Bantargebang,Ciketing Udik
+3,Jawa Barat,55,Kota Bekasi,Bantargebang,Cikiwul
+4,Jawa Barat,55,Kota Bekasi,Bantargebang,Sumur Batu
+5,Jawa Barat,55,Kota Bekasi,Bekasi Barat,Bintara
+6,Jawa Barat,55,Kota Bekasi,Bekasi Barat,Bintara Jaya
+7,Jawa Barat,55,Kota Bekasi,Bekasi Barat,Jakasampurna
+8,Jawa Barat,55,Kota Bekasi,Bekasi Barat,Kota Baru
+9,Jawa Barat,55,Kota Bekasi,Bekasi Barat,Kranji
+10,Jawa Barat,55,Kota Bekasi,Bekasi Selatan,Jakamulya
+11,Jawa Barat,55,Kota Bekasi,Bekasi Selatan,Jakasetia
+12,Jawa Barat,55,Kota Bekasi,Bekasi Selatan,Kayuringin Jaya
+13,Jawa Barat,55,Kota Bekasi,Bekasi Selatan,Marga Jaya
+14,Jawa Barat,55,Kota Bekasi,Bekasi Selatan,Pekayon Jaya
+15,Jawa Barat,55,Kota Bekasi,Bekasi Timur,Aren Jaya
+16,Jawa Barat,55,Kota Bekasi,Bekasi Timur,Bekasi Jaya
+17,Jawa Barat,55,Kota Bekasi,Bekasi Timur,Duren Jaya
+18,Jawa Barat,55,Kota Bekasi,Bekasi Timur,Margahayu
+19,Jawa Barat,55,Kota Bekasi,Bekasi Utara,Harapan Baru
+20,Jawa Barat,55,Kota Bekasi,Bekasi Utara,Harapan Jaya
+21,Jawa Barat,55,Kota Bekasi,Bekasi Utara,Kaliabang Tengah
+22,Jawa Barat,55,Kota Bekasi,Bekasi Utara,Marga Mulya
+23,Jawa Barat,55,Kota Bekasi,Bekasi Utara,Perwira
+24,Jawa Barat,55,Kota Bekasi,Bekasi Utara,Teluk Pucung
+25,Jawa Barat,55,Kota Bekasi,Jatiasih,Jatiasih
+26,Jawa Barat,55,Kota Bekasi,Jatiasih,Jatikramat
+27,Jawa Barat,55,Kota Bekasi,Jatiasih,Jatiluhur
+28,Jawa Barat,55,Kota Bekasi,Jatiasih,Jatimekar
+29,Jawa Barat,55,Kota Bekasi,Jatiasih,Jatirasa
+30,Jawa Barat,55,Kota Bekasi,Jatiasih,Jatisari
+31,Jawa Barat,55,Kota Bekasi,Jatisampurna,Jatikarya
+32,Jawa Barat,55,Kota Bekasi,Jatisampurna,Jatiraden
+33,Jawa Barat,55,Kota Bekasi,Jatisampurna,Jatirangga
+34,Jawa Barat,55,Kota Bekasi,Jatisampurna,Jatiranggon
+35,Jawa Barat,55,Kota Bekasi,Jatisampurna,Jatisampurna
+36,Jawa Barat,55,Kota Bekasi,Medansatria,Pejuang
+37,Jawa Barat,55,Kota Bekasi,Medansatria,Medansatria
+38,Jawa Barat,55,Kota Bekasi,Medansatria,Harapan Mulya
+39,Jawa Barat,55,Kota Bekasi,Medansatria,Kali Baru
+40,Jawa Barat,55,Kota Bekasi,Mustikajaya,Cimuning
+41,Jawa Barat,55,Kota Bekasi,Mustikajaya,Mustikajaya
+42,Jawa Barat,55,Kota Bekasi,Mustikajaya,Mustikasari
+43,Jawa Barat,55,Kota Bekasi,Mustikajaya,Pedurenan
+44,Jawa Barat,55,Kota Bekasi,Pondokgede,Jatibening
+45,Jawa Barat,55,Kota Bekasi,Pondokgede,Jatibening Baru
+46,Jawa Barat,55,Kota Bekasi,Pondokgede,Jaticempaka
+47,Jawa Barat,55,Kota Bekasi,Pondokgede,Jatimakmur
+48,Jawa Barat,55,Kota Bekasi,Pondokgede,Jatiwaringin
+49,Jawa Barat,55,Kota Bekasi,Pondokmelati,Jatimelati
+50,Jawa Barat,55,Kota Bekasi,Pondokmelati,Jatimurni
+51,Jawa Barat,55,Kota Bekasi,Pondokmelati,Jatirahayu
+52,Jawa Barat,55,Kota Bekasi,Pondokmelati,Jatiwarna
+53,Jawa Barat,55,Kota Bekasi,Rawalumbu,Bojong Menteng
+54,Jawa Barat,55,Kota Bekasi,Rawalumbu,Bojong Rawalumbu
+55,Jawa Barat,55,Kota Bekasi,Rawalumbu,Pengasinan
+56,Jawa Barat,55,Kota Bekasi,Rawalumbu,Sepanjang Jaya
+57,Jawa Barat,54,Kabupaten Bekasi,Babelan,Babelan Kota
+58,Jawa Barat,54,Kabupaten Bekasi,Babelan,Bunibakti
+59,Jawa Barat,54,Kabupaten Bekasi,Babelan,Huripjaya
+60,Jawa Barat,54,Kabupaten Bekasi,Babelan,Kedungjaya
+61,Jawa Barat,54,Kabupaten Bekasi,Babelan,Kedungpengawas
+62,Jawa Barat,54,Kabupaten Bekasi,Babelan,Muarabakti
+63,Jawa Barat,54,Kabupaten Bekasi,Babelan,Pantai Hurip
+64,Jawa Barat,54,Kabupaten Bekasi,Babelan,Bahagia
+65,Jawa Barat,54,Kabupaten Bekasi,Babelan,Kebalen
+66,Jawa Barat,54,Kabupaten Bekasi,Bojongmangu,Bojongmangu
+67,Jawa Barat,54,Kabupaten Bekasi,Bojongmangu,Karangindah
+68,Jawa Barat,54,Kabupaten Bekasi,Bojongmangu,Karangmulya
+69,Jawa Barat,54,Kabupaten Bekasi,Bojongmangu,Medalkrisna
+70,Jawa Barat,54,Kabupaten Bekasi,Bojongmangu,Sukabungah
+71,Jawa Barat,54,Kabupaten Bekasi,Bojongmangu,Sukamukti
+72,Jawa Barat,54,Kabupaten Bekasi,Cabangbungin,Jayabakti
+73,Jawa Barat,54,Kabupaten Bekasi,Cabangbungin,Jayalaksana
+74,Jawa Barat,54,Kabupaten Bekasi,Cabangbungin,Lenggahjaya
+75,Jawa Barat,54,Kabupaten Bekasi,Cabangbungin,Lenggahsari
+76,Jawa Barat,54,Kabupaten Bekasi,Cabangbungin,Setiajaya
+77,Jawa Barat,54,Kabupaten Bekasi,Cabangbungin,Setialaksana
+78,Jawa Barat,54,Kabupaten Bekasi,Cabangbungin,Sindangjaya
+79,Jawa Barat,54,Kabupaten Bekasi,Cabangbungin,Sindangsari
+80,Jawa Barat,54,Kabupaten Bekasi,Cibarusah,Cibarusahjaya
+81,Jawa Barat,54,Kabupaten Bekasi,Cibarusah,Cibarusahkota
+82,Jawa Barat,54,Kabupaten Bekasi,Cibarusah,Ridogalih
+83,Jawa Barat,54,Kabupaten Bekasi,Cibarusah,Ridomanah
+84,Jawa Barat,54,Kabupaten Bekasi,Cibarusah,Sindangmulya
+85,Jawa Barat,54,Kabupaten Bekasi,Cibarusah,Sirnajati
+86,Jawa Barat,54,Kabupaten Bekasi,Cibarusah,Wibawamulya
+87,Jawa Barat,54,Kabupaten Bekasi,Cibitung,Cibuntu
+88,Jawa Barat,54,Kabupaten Bekasi,Cibitung,Kertamukti
+89,Jawa Barat,54,Kabupaten Bekasi,Cibitung,Muktiwari
+90,Jawa Barat,54,Kabupaten Bekasi,Cibitung,Sarimukti
+91,Jawa Barat,54,Kabupaten Bekasi,Cibitung,Sukajaya
+92,Jawa Barat,54,Kabupaten Bekasi,Cibitung,Wanajaya
+93,Jawa Barat,54,Kabupaten Bekasi,Cibitung,Wanasari
+94,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Cikedokan
+95,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Danauindah
+96,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Gandamekar
+97,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Gandasari
+98,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Jatiwangi
+99,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Kalijaya
+100,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Mekarwangi
+101,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Sukadanau
+102,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Telagamurni
+103,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Telajung
+104,Jawa Barat,54,Kabupaten Bekasi,Cikarang Barat,Telaga Asih
+105,Jawa Barat,54,Kabupaten Bekasi,Cikarang Pusat,Cicau
+106,Jawa Barat,54,Kabupaten Bekasi,Cikarang Pusat,Hegarmukti
+107,Jawa Barat,54,Kabupaten Bekasi,Cikarang Pusat,Jayamukti
+108,Jawa Barat,54,Kabupaten Bekasi,Cikarang Pusat,Pasirranji
+109,Jawa Barat,54,Kabupaten Bekasi,Cikarang Pusat,Pasirtanjung
+110,Jawa Barat,54,Kabupaten Bekasi,Cikarang Pusat,Sukamahi
+111,Jawa Barat,54,Kabupaten Bekasi,Cikarang Selatan,Ciantra
+112,Jawa Barat,54,Kabupaten Bekasi,Cikarang Selatan,Cibatu
+113,Jawa Barat,54,Kabupaten Bekasi,Cikarang Selatan,Pasirsari
+114,Jawa Barat,54,Kabupaten Bekasi,Cikarang Selatan,Sukadami
+115,Jawa Barat,54,Kabupaten Bekasi,Cikarang Selatan,Sukaresmi
+116,Jawa Barat,54,Kabupaten Bekasi,Cikarang Selatan,Sukasejati
+117,Jawa Barat,54,Kabupaten Bekasi,Cikarang Selatan,Serang
+118,Jawa Barat,54,Kabupaten Bekasi,Cikarang Timur,Cipayung
+119,Jawa Barat,54,Kabupaten Bekasi,Cikarang Timur,Hegarmanah
+120,Jawa Barat,54,Kabupaten Bekasi,Cikarang Timur,Jatibaru
+121,Jawa Barat,54,Kabupaten Bekasi,Cikarang Timur,Jatireja
+122,Jawa Barat,54,Kabupaten Bekasi,Cikarang Timur,Karangsari
+123,Jawa Barat,54,Kabupaten Bekasi,Cikarang Timur,Labansari
+124,Jawa Barat,54,Kabupaten Bekasi,Cikarang Timur,Tanjungbaru
+125,Jawa Barat,54,Kabupaten Bekasi,Cikarang Timur,Sertajaya
+126,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Cikarang Kota
+127,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Harjamekar
+128,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Karangasih
+129,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Karangbaru
+130,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Karangraharja
+131,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Mekarmukti
+132,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Pasirgombong
+133,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Simpangan
+134,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Tanjungsari
+135,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Waluya
+136,Jawa Barat,54,Kabupaten Bekasi,Cikarang Utara,Wangunharja
+137,Jawa Barat,54,Kabupaten Bekasi,Karangbahagia,Karanganyar
+138,Jawa Barat,54,Kabupaten Bekasi,Karangbahagia,Karangbahagia
+139,Jawa Barat,54,Kabupaten Bekasi,Karangbahagia,Karangmukti
+140,Jawa Barat,54,Kabupaten Bekasi,Karangbahagia,Karangrahayu
+141,Jawa Barat,54,Kabupaten Bekasi,Karangbahagia,Karangsatu
+142,Jawa Barat,54,Kabupaten Bekasi,Karangbahagia,Karangsentosa
+143,Jawa Barat,54,Kabupaten Bekasi,Karangbahagia,Karangsetia
+144,Jawa Barat,54,Kabupaten Bekasi,Karangbahagia,Sukaraya
+145,Jawa Barat,54,Kabupaten Bekasi,Kedungwaringin,Bojongsari
+146,Jawa Barat,54,Kabupaten Bekasi,Kedungwaringin,Karangharum
+147,Jawa Barat,54,Kabupaten Bekasi,Kedungwaringin,Karangmekar
+148,Jawa Barat,54,Kabupaten Bekasi,Kedungwaringin,Karangsambung
+149,Jawa Barat,54,Kabupaten Bekasi,Kedungwaringin,Kedungwaringin
+150,Jawa Barat,54,Kabupaten Bekasi,Kedungwaringin,Mekarjaya
+151,Jawa Barat,54,Kabupaten Bekasi,Kedungwaringin,Waringinjaya
+152,Jawa Barat,54,Kabupaten Bekasi,Muara Gembong,Jayasakti
+153,Jawa Barat,54,Kabupaten Bekasi,Muara Gembong,Pantai Bahagia
+154,Jawa Barat,54,Kabupaten Bekasi,Muara Gembong,Pantai Bakti
+155,Jawa Barat,54,Kabupaten Bekasi,Muara Gembong,Pantai Harapanjaya
+156,Jawa Barat,54,Kabupaten Bekasi,Muara Gembong,Pantai Mekar
+157,Jawa Barat,54,Kabupaten Bekasi,Muara Gembong,Pantai Sederhana
+158,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Bantarjaya
+159,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Bantarsari
+160,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Karangharja
+161,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Karanghaur
+162,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Karangjaya
+163,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Karangreja
+164,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Karangpatri
+165,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Karangsegar
+166,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Kertajaya
+167,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Sumbereja
+168,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Sumbersari
+169,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Sumberurip
+170,Jawa Barat,54,Kabupaten Bekasi,Pebayuran,Kertasari
+171,Jawa Barat,54,Kabupaten Bekasi,Serang Baru,Cilangkara
+172,Jawa Barat,54,Kabupaten Bekasi,Serang Baru,Jayamulya
+173,Jawa Barat,54,Kabupaten Bekasi,Serang Baru,Jayasampurna
+174,Jawa Barat,54,Kabupaten Bekasi,Serang Baru,Nagacipta
+175,Jawa Barat,54,Kabupaten Bekasi,Serang Baru,Nagasari
+176,Jawa Barat,54,Kabupaten Bekasi,Serang Baru,Sirnajaya
+177,Jawa Barat,54,Kabupaten Bekasi,Serang Baru,Sukaragam
+178,Jawa Barat,54,Kabupaten Bekasi,Serang Baru,Sukasari
+179,Banten,457,Kota Tangerang Selatan,Setu,Burangkeng
+180,Banten,457,Kota Tangerang Selatan,Setu,Cibening
+181,Banten,457,Kota Tangerang Selatan,Setu,Cijengkol
+182,Banten,457,Kota Tangerang Selatan,Setu,Cikarageman
+183,Banten,457,Kota Tangerang Selatan,Setu,Ciledug
+184,Banten,457,Kota Tangerang Selatan,Setu,Kertarahayu
+185,Banten,457,Kota Tangerang Selatan,Setu,Lubangbuaya
+186,Banten,457,Kota Tangerang Selatan,Setu,Muktijaya
+187,Banten,457,Kota Tangerang Selatan,Setu,Ragamanunggal
+188,Banten,457,Kota Tangerang Selatan,Setu,Taman Rahayu
+189,Banten,457,Kota Tangerang Selatan,Setu,Taman Sari
+190,Jawa Barat,54,Kabupaten Bekasi,Sukakarya,Sukaindah
+191,Jawa Barat,54,Kabupaten Bekasi,Sukakarya,Sukajadi
+192,Jawa Barat,54,Kabupaten Bekasi,Sukakarya,Sukakarsa
+193,Jawa Barat,54,Kabupaten Bekasi,Sukakarya,Sukakarya
+194,Jawa Barat,54,Kabupaten Bekasi,Sukakarya,Sukalaksana
+195,Jawa Barat,54,Kabupaten Bekasi,Sukakarya,Sukamakmur
+196,Jawa Barat,54,Kabupaten Bekasi,Sukakarya,Sukamurni
+197,Jawa Barat,54,Kabupaten Bekasi,Sukatani,Banjarsari
+198,Jawa Barat,54,Kabupaten Bekasi,Sukatani,Sukaasih
+199,Jawa Barat,54,Kabupaten Bekasi,Sukatani,Sukadarma
+200,Jawa Barat,54,Kabupaten Bekasi,Sukatani,Sukahurip
+201,Jawa Barat,54,Kabupaten Bekasi,Sukatani,Sukamanah
+202,Jawa Barat,54,Kabupaten Bekasi,Sukatani,Sukamulya
+203,Jawa Barat,54,Kabupaten Bekasi,Sukatani,Sukarukun
+204,Jawa Barat,54,Kabupaten Bekasi,Sukawangi,Sukabudi
+205,Jawa Barat,54,Kabupaten Bekasi,Sukawangi,Sukadaya
+206,Jawa Barat,54,Kabupaten Bekasi,Sukawangi,Sukakerta
+207,Jawa Barat,54,Kabupaten Bekasi,Sukawangi,Sukamekar
+208,Jawa Barat,54,Kabupaten Bekasi,Sukawangi,Sukaringin
+209,Jawa Barat,54,Kabupaten Bekasi,Sukawangi,Sukatenang
+210,Jawa Barat,54,Kabupaten Bekasi,Sukawangi,Sukawangi
+211,Jawa Barat,54,Kabupaten Bekasi,Tambelang,Sukabakti
+212,Jawa Barat,54,Kabupaten Bekasi,Tambelang,Sukamaju
+213,Jawa Barat,54,Kabupaten Bekasi,Tambelang,Sukamantri
+214,Jawa Barat,54,Kabupaten Bekasi,Tambelang,Sukarahayu
+215,Jawa Barat,54,Kabupaten Bekasi,Tambelang,Sukaraja
+216,Jawa Barat,54,Kabupaten Bekasi,Tambelang,Sukarapih
+217,Jawa Barat,54,Kabupaten Bekasi,Tambelang,Sukawijaya
+218,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Tridaya Sakti
+219,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Lambangjaya
+220,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Lambangsari
+221,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Mangunjaya
+222,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Mekarsari
+223,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Setiadarma
+224,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Setiamekar
+225,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Sumberjaya
+226,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Tambun
+227,Jawa Barat,54,Kabupaten Bekasi,Tambun Selatan,Jatimulya
+228,Jawa Barat,54,Kabupaten Bekasi,Tambun Utara,Jejalenjaya
+229,Jawa Barat,54,Kabupaten Bekasi,Tambun Utara,Karangsatria
+230,Jawa Barat,54,Kabupaten Bekasi,Tambun Utara,Satriajaya
+231,Jawa Barat,54,Kabupaten Bekasi,Tambun Utara,Satriamekar
+232,Jawa Barat,54,Kabupaten Bekasi,Tambun Utara,Sriamur
+233,Jawa Barat,54,Kabupaten Bekasi,Tambun Utara,Srijaya
+234,Jawa Barat,54,Kabupaten Bekasi,Tambun Utara,Srimahi
+235,Jawa Barat,54,Kabupaten Bekasi,Tambun Utara,Srimukti
+236,Jawa Barat,54,Kabupaten Bekasi,Tarumajaya,Pahlawan Setia
+237,Jawa Barat,54,Kabupaten Bekasi,Tarumajaya,Pantai Makmur
+238,Jawa Barat,54,Kabupaten Bekasi,Tarumajaya,Pusaka Rakyat
+239,Jawa Barat,54,Kabupaten Bekasi,Tarumajaya,Samudra Jaya
+240,Jawa Barat,54,Kabupaten Bekasi,Tarumajaya,Sagara Makmur
+241,Jawa Barat,54,Kabupaten Bekasi,Tarumajaya,Segarajaya
+242,Jawa Barat,54,Kabupaten Bekasi,Tarumajaya,Setia Mulya
+243,Jawa Barat,79,Kota Bogor,Bogor Barat,Balungbangjaya
+244,Jawa Barat,79,Kota Bogor,Bogor Barat,Bubulak
+245,Jawa Barat,79,Kota Bogor,Bogor Barat,Cilendek Barat
+246,Jawa Barat,79,Kota Bogor,Bogor Barat,Cilendek Timur
+247,Jawa Barat,79,Kota Bogor,Bogor Barat,Curug
+248,Jawa Barat,79,Kota Bogor,Bogor Barat,Curugmekar
+249,Jawa Barat,79,Kota Bogor,Bogor Barat,Gunungbatu
+250,Jawa Barat,79,Kota Bogor,Bogor Barat,Loji
+251,Jawa Barat,79,Kota Bogor,Bogor Barat,Margajaya
+252,Jawa Barat,79,Kota Bogor,Bogor Barat,Menteng
+253,Jawa Barat,79,Kota Bogor,Bogor Barat,Pasirjaya
+254,Jawa Barat,79,Kota Bogor,Bogor Barat,Pasirkuda
+255,Jawa Barat,79,Kota Bogor,Bogor Barat,Pasirmulya
+256,Jawa Barat,79,Kota Bogor,Bogor Barat,Semplak
+257,Jawa Barat,79,Kota Bogor,Bogor Barat,Sindangbarang
+258,Jawa Barat,79,Kota Bogor,Bogor Barat,Situgede
+259,Jawa Barat,79,Kota Bogor,Bogor Selatan,Batutulis
+260,Jawa Barat,79,Kota Bogor,Bogor Selatan,Bojongkerta
+261,Jawa Barat,79,Kota Bogor,Bogor Selatan,Bondongan
+262,Jawa Barat,79,Kota Bogor,Bogor Selatan,Cikaret
+263,Jawa Barat,79,Kota Bogor,Bogor Selatan,Cipaku
+264,Jawa Barat,79,Kota Bogor,Bogor Selatan,Empang
+265,Jawa Barat,79,Kota Bogor,Bogor Selatan,Genteng
+266,Jawa Barat,79,Kota Bogor,Bogor Selatan,Harjasari
+267,Jawa Barat,79,Kota Bogor,Bogor Selatan,Kertamaya
+268,Jawa Barat,79,Kota Bogor,Bogor Selatan,Lawanggintung
+269,Jawa Barat,79,Kota Bogor,Bogor Selatan,Muarasari
+270,Jawa Barat,79,Kota Bogor,Bogor Selatan,Mulyaharja
+271,Jawa Barat,79,Kota Bogor,Bogor Selatan,Pakuan
+272,Jawa Barat,79,Kota Bogor,Bogor Selatan,Pamoyanan
+273,Jawa Barat,79,Kota Bogor,Bogor Selatan,Rancamaya
+274,Jawa Barat,79,Kota Bogor,Bogor Selatan,Ranggamekar
+275,Jawa Barat,79,Kota Bogor,Bogor Tengah,Babakan
+276,Jawa Barat,79,Kota Bogor,Bogor Tengah,Babakanpasar
+277,Jawa Barat,79,Kota Bogor,Bogor Tengah,Cibogor
+278,Jawa Barat,79,Kota Bogor,Bogor Tengah,Ciwaringin
+279,Jawa Barat,79,Kota Bogor,Bogor Tengah,Gudang
+280,Jawa Barat,79,Kota Bogor,Bogor Tengah,Kebonkelapa
+281,Jawa Barat,79,Kota Bogor,Bogor Tengah,Pabaton
+282,Jawa Barat,79,Kota Bogor,Bogor Tengah,Paledang
+283,Jawa Barat,79,Kota Bogor,Bogor Tengah,Panaragan
+284,Jawa Barat,79,Kota Bogor,Bogor Tengah,Sempur
+285,Jawa Barat,79,Kota Bogor,Bogor Tengah,Tegallega
+286,Jawa Barat,79,Kota Bogor,Bogor Timur,Baranangsiang
+287,Jawa Barat,79,Kota Bogor,Bogor Timur,Katulampa
+288,Jawa Barat,79,Kota Bogor,Bogor Timur,Sindangrasa
+289,Jawa Barat,79,Kota Bogor,Bogor Timur,Sindangsari
+290,Jawa Barat,79,Kota Bogor,Bogor Timur,Sukasari
+291,Jawa Barat,79,Kota Bogor,Bogor Timur,Tajur
+292,Jawa Barat,79,Kota Bogor,Bogor Utara,Bantarjati
+293,Jawa Barat,79,Kota Bogor,Bogor Utara,Cibuluh
+294,Jawa Barat,79,Kota Bogor,Bogor Utara,Ciluar
+295,Jawa Barat,79,Kota Bogor,Bogor Utara,Cimahpar
+296,Jawa Barat,79,Kota Bogor,Bogor Utara,Ciparigi
+297,Jawa Barat,79,Kota Bogor,Bogor Utara,Kedunghalang
+298,Jawa Barat,79,Kota Bogor,Bogor Utara,Tanahbaru
+299,Jawa Barat,79,Kota Bogor,Bogor Utara,Tegalgundil
+300,Jawa Barat,79,Kota Bogor,Tanah Sareal,Cibadak
+301,Jawa Barat,79,Kota Bogor,Tanah Sareal,Kayumanis
+302,Jawa Barat,79,Kota Bogor,Tanah Sareal,Kebonpedes
+303,Jawa Barat,79,Kota Bogor,Tanah Sareal,Kedungbadak
+304,Jawa Barat,79,Kota Bogor,Tanah Sareal,Kedungjaya
+305,Jawa Barat,79,Kota Bogor,Tanah Sareal,Kedungwaringin
+306,Jawa Barat,79,Kota Bogor,Tanah Sareal,Kencana
+307,Jawa Barat,79,Kota Bogor,Tanah Sareal,Mekarwangi
+308,Jawa Barat,79,Kota Bogor,Tanah Sareal,Sukadamai
+309,Jawa Barat,79,Kota Bogor,Tanah Sareal,Sukaresmi
+310,Jawa Barat,79,Kota Bogor,Tanah Sareal,Tanahsareal
+311,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Babakan Madang
+312,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Bojong Koneng
+313,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Cijayanti
+314,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Cipambuan
+315,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Citaringgul
+316,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Kadumangu
+317,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Karang Tengah
+318,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Sentul
+319,Jawa Barat,78,Kabupaten Bogor,Babakan Madang,Sumur Batu
+320,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Bojong Baru
+321,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Bojonggede
+322,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Cimanggis
+323,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Kedung Waringin
+324,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Ragajaya
+325,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Rawa Panjang
+326,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Susukan
+327,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Waringin Jaya
+328,Jawa Barat,78,Kabupaten Bogor,Bojonggede,Pabuaran
+329,Jawa Barat,78,Kabupaten Bogor,Caringin,Pasir Buncir
+330,Jawa Barat,78,Kabupaten Bogor,Caringin,Caringin
+331,Jawa Barat,78,Kabupaten Bogor,Caringin,Ciderum
+332,Jawa Barat,78,Kabupaten Bogor,Caringin,Ciherang Pondok
+333,Jawa Barat,78,Kabupaten Bogor,Caringin,Cimande
+334,Jawa Barat,78,Kabupaten Bogor,Caringin,Cimande Hilir
+335,Jawa Barat,78,Kabupaten Bogor,Caringin,Cinagara
+336,Jawa Barat,78,Kabupaten Bogor,Caringin,Lemah Duhur
+337,Jawa Barat,78,Kabupaten Bogor,Caringin,Muara Jaya
+338,Jawa Barat,78,Kabupaten Bogor,Caringin,Pancawati
+339,Jawa Barat,78,Kabupaten Bogor,Caringin,Pasir Muncang
+340,Jawa Barat,78,Kabupaten Bogor,Caringin,Tangkil
+341,Jawa Barat,78,Kabupaten Bogor,Cariu,Babakan Raden
+342,Jawa Barat,78,Kabupaten Bogor,Cariu,Bantar Kuning
+343,Jawa Barat,78,Kabupaten Bogor,Cariu,Cariu
+344,Jawa Barat,78,Kabupaten Bogor,Cariu,Cibatu Tiga
+345,Jawa Barat,78,Kabupaten Bogor,Cariu,Cikutamahi
+346,Jawa Barat,78,Kabupaten Bogor,Cariu,Karya Mekar
+347,Jawa Barat,78,Kabupaten Bogor,Cariu,Kuta Mekar
+348,Jawa Barat,78,Kabupaten Bogor,Cariu,Mekarwangi
+349,Jawa Barat,78,Kabupaten Bogor,Cariu,Sukajadi
+350,Jawa Barat,78,Kabupaten Bogor,Cariu,Tegal Panjang
+351,Jawa Barat,78,Kabupaten Bogor,Ciampea,Bojong Jengkol
+352,Jawa Barat,78,Kabupaten Bogor,Ciampea,Bojong Rangkas
+353,Jawa Barat,78,Kabupaten Bogor,Ciampea,Benteng
+354,Jawa Barat,78,Kabupaten Bogor,Ciampea,Ciampea
+355,Jawa Barat,78,Kabupaten Bogor,Ciampea,Ciampea Udik
+356,Jawa Barat,78,Kabupaten Bogor,Ciampea,Cibadak
+357,Jawa Barat,78,Kabupaten Bogor,Ciampea,Cibanteng
+358,Jawa Barat,78,Kabupaten Bogor,Ciampea,Cibuntu
+359,Jawa Barat,78,Kabupaten Bogor,Ciampea,Cicadas
+360,Jawa Barat,78,Kabupaten Bogor,Ciampea,Cihideung Ilir
+361,Jawa Barat,78,Kabupaten Bogor,Ciampea,Cihideung Udik
+362,Jawa Barat,78,Kabupaten Bogor,Ciampea,Cinangka
+363,Jawa Barat,78,Kabupaten Bogor,Ciampea,Tegal Waru
+364,Jawa Barat,78,Kabupaten Bogor,Ciawi,Banjar Sari
+365,Jawa Barat,78,Kabupaten Bogor,Ciawi,Banjar Wangi
+366,Jawa Barat,78,Kabupaten Bogor,Ciawi,Banjar Waru
+367,Jawa Barat,78,Kabupaten Bogor,Ciawi,Bendungan
+368,Jawa Barat,78,Kabupaten Bogor,Ciawi,Bitung Sari
+369,Jawa Barat,78,Kabupaten Bogor,Ciawi,Bojong Murni
+370,Jawa Barat,78,Kabupaten Bogor,Ciawi,Ciawi
+371,Jawa Barat,78,Kabupaten Bogor,Ciawi,Cibedug
+372,Jawa Barat,78,Kabupaten Bogor,Ciawi,Cileungsi
+373,Jawa Barat,78,Kabupaten Bogor,Ciawi,Citapen
+374,Jawa Barat,78,Kabupaten Bogor,Ciawi,Jambu Luwuk
+375,Jawa Barat,78,Kabupaten Bogor,Ciawi,Pandansari
+376,Jawa Barat,78,Kabupaten Bogor,Ciawi,Teluk Pinang
+377,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Cibinong
+378,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Cirimekar
+379,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Ciriung
+380,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Harapan Jaya
+381,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Karadenan
+382,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Nanggewer
+383,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Nanggewer Mekar
+384,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Pabuaran
+385,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Pakansari
+386,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Pondok Rajeg
+387,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Sukahati
+388,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Tengah
+389,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Cemplang
+390,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Ciaruteun Ilir
+391,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Ciaruteun Udik
+392,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Cibatok 1
+393,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Cibatok 2
+394,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Cijujung
+395,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Cimanggu 1
+396,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Cimanggu 2
+397,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Dukuh
+398,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Galuga
+399,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Girimulya
+400,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Leuweung Kolot
+401,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Situ Ilir
+402,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Situ Udik
+403,Jawa Barat,78,Kabupaten Bogor,Cibungbulang,Sukamaju
+404,Jawa Barat,78,Kabupaten Bogor,Cigombong,Ciadeg
+405,Jawa Barat,78,Kabupaten Bogor,Cigombong,Ciburayut
+406,Jawa Barat,78,Kabupaten Bogor,Cigombong,Ciburuy
+407,Jawa Barat,78,Kabupaten Bogor,Cigombong,Cigombong
+408,Jawa Barat,78,Kabupaten Bogor,Cigombong,Cisalada
+409,Jawa Barat,78,Kabupaten Bogor,Cigombong,Pasirjaya
+410,Jawa Barat,78,Kabupaten Bogor,Cigombong,Srogol
+411,Jawa Barat,78,Kabupaten Bogor,Cigombong,Tugujaya
+412,Jawa Barat,78,Kabupaten Bogor,Cigombong,Watesjaya
+413,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Argapura
+414,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Bangunjaya
+415,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Banyu Asih
+416,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Banyu Resmi
+417,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Banyu Wangi
+418,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Batu Jajar
+419,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Bunar
+420,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Cigudeg
+421,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Cintamanik
+422,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Mekarjaya
+423,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Rengasjajar
+424,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Sukamaju
+425,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Sukaraksa
+426,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Tegalega
+427,Jawa Barat,78,Kabupaten Bogor,Cigudeg,Wargajaya
+428,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Cibalung
+429,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Cijeruk
+430,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Cipelang
+431,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Cipicung
+432,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Palasari
+433,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Sukaharja
+434,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Tajur Halang
+435,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Tanjung Sari
+436,Jawa Barat,78,Kabupaten Bogor,Cijeruk,Warung Menteng
+437,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Cileungsi
+438,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Cileungsi Kidul
+439,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Cipenjo
+440,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Cipeucang
+441,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Dayeuh
+442,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Gandoang
+443,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Jatisari
+444,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Limus Nunggal
+445,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Mampir
+446,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Mekarsari
+447,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Pasir Angin
+448,Jawa Barat,78,Kabupaten Bogor,Cileungsi,Setu Sari
+449,Jawa Barat,78,Kabupaten Bogor,Ciomas,Ciapus
+450,Jawa Barat,78,Kabupaten Bogor,Ciomas,Ciomas
+451,Jawa Barat,78,Kabupaten Bogor,Ciomas,Ciomas Rahayu
+452,Jawa Barat,78,Kabupaten Bogor,Ciomas,Kota Batu
+453,Jawa Barat,78,Kabupaten Bogor,Ciomas,Laladon
+454,Jawa Barat,78,Kabupaten Bogor,Ciomas,Mekarjaya
+455,Jawa Barat,78,Kabupaten Bogor,Ciomas,Pagelaran
+456,Jawa Barat,78,Kabupaten Bogor,Ciomas,Parakan
+457,Jawa Barat,78,Kabupaten Bogor,Ciomas,Sukaharja
+458,Jawa Barat,78,Kabupaten Bogor,Ciomas,Sukamakmur
+459,Jawa Barat,78,Kabupaten Bogor,Ciomas,Padasuka
+460,Jawa Barat,78,Kabupaten Bogor,Cisarua,Batu Layang
+461,Jawa Barat,78,Kabupaten Bogor,Cisarua,Cibeureum
+462,Jawa Barat,78,Kabupaten Bogor,Cisarua,Cilember
+463,Jawa Barat,78,Kabupaten Bogor,Cisarua,Citeko
+464,Jawa Barat,78,Kabupaten Bogor,Cisarua,Jogjogan
+465,Jawa Barat,78,Kabupaten Bogor,Cisarua,Kopo
+466,Jawa Barat,78,Kabupaten Bogor,Cisarua,Leuwimalang
+467,Jawa Barat,78,Kabupaten Bogor,Cisarua,Tugu Selatan
+468,Jawa Barat,78,Kabupaten Bogor,Cisarua,Tugu Utara
+469,Jawa Barat,78,Kabupaten Bogor,Cisarua,Cisarua
+470,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Babakan
+471,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Cibeuteung Muara
+472,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Cibeuteung Udik
+473,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Cibentang
+474,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Cihoe
+475,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Ciseeng
+476,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Karihkil
+477,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Kuripan
+478,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Parigi Mekar
+479,Jawa Barat,78,Kabupaten Bogor,Ciseeng,Putat Nutug
+480,Jawa Barat,78,Kabupaten Bogor,Citeureup,Citeureup
+481,Jawa Barat,78,Kabupaten Bogor,Citeureup,Gunung Sari
+482,Jawa Barat,78,Kabupaten Bogor,Citeureup,Hambalang
+483,Jawa Barat,78,Kabupaten Bogor,Citeureup,Karang Asem Timur
+484,Jawa Barat,78,Kabupaten Bogor,Citeureup,Leuwinutug
+485,Jawa Barat,78,Kabupaten Bogor,Citeureup,Pasir Mukti
+486,Jawa Barat,78,Kabupaten Bogor,Citeureup,Puspasari
+487,Jawa Barat,78,Kabupaten Bogor,Citeureup,Sanja
+488,Jawa Barat,78,Kabupaten Bogor,Citeureup,Sukahati
+489,Jawa Barat,78,Kabupaten Bogor,Citeureup,Tajur
+490,Jawa Barat,78,Kabupaten Bogor,Citeureup,Tangkil
+491,Jawa Barat,78,Kabupaten Bogor,Citeureup,Tarikolot
+492,Jawa Barat,78,Kabupaten Bogor,Citeureup,Karang Asem Barat
+493,Jawa Barat,78,Kabupaten Bogor,Citeureup,Puspanegara
+494,Jawa Barat,78,Kabupaten Bogor,Dramaga,Babakan
+495,Jawa Barat,78,Kabupaten Bogor,Dramaga,Ciherang
+496,Jawa Barat,78,Kabupaten Bogor,Dramaga,Cikarawang
+497,Jawa Barat,78,Kabupaten Bogor,Dramaga,Dramaga
+498,Jawa Barat,78,Kabupaten Bogor,Dramaga,Neglasari
+499,Jawa Barat,78,Kabupaten Bogor,Dramaga,Petir
+500,Jawa Barat,78,Kabupaten Bogor,Dramaga,Purwasari
+501,Jawa Barat,78,Kabupaten Bogor,Dramaga,Sinar Sari
+502,Jawa Barat,78,Kabupaten Bogor,Dramaga,Sukadamai
+503,Jawa Barat,78,Kabupaten Bogor,Dramaga,Sukawening
+504,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Bojong Kulur
+505,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Bojong Nangka
+506,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Ciangsana
+507,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Cicadas
+508,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Cikeas Udik
+509,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Gunung Putri
+510,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Karanggan
+511,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Nagrak
+512,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Tlajung Udik
+513,Jawa Barat,78,Kabupaten Bogor,Gunung Putri,Wanaherang
+514,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Cibadung
+515,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Cibinong
+516,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Cidokom
+517,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Curug
+518,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Gunungsindur
+519,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Jampang
+520,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Pabuaran
+521,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Padurenan
+522,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Pengasinan
+523,Jawa Barat,78,Kabupaten Bogor,Gunungsindur,Rawakalong
+524,Jawa Barat,78,Kabupaten Bogor,Jasinga,Bagoang
+525,Jawa Barat,78,Kabupaten Bogor,Jasinga,Barengkok
+526,Jawa Barat,78,Kabupaten Bogor,Jasinga,Cikopomayak
+527,Jawa Barat,78,Kabupaten Bogor,Jasinga,Curug
+528,Jawa Barat,78,Kabupaten Bogor,Jasinga,Jasinga
+529,Jawa Barat,78,Kabupaten Bogor,Jasinga,Jugala Jaya
+530,Jawa Barat,78,Kabupaten Bogor,Jasinga,Kalongsawah
+531,Jawa Barat,78,Kabupaten Bogor,Jasinga,Koleang
+532,Jawa Barat,78,Kabupaten Bogor,Jasinga,Neglasari
+533,Jawa Barat,78,Kabupaten Bogor,Jasinga,Pamagersari
+534,Jawa Barat,78,Kabupaten Bogor,Jasinga,Pangaur
+535,Jawa Barat,78,Kabupaten Bogor,Jasinga,Pangradin
+536,Jawa Barat,78,Kabupaten Bogor,Jasinga,Sipak
+537,Jawa Barat,78,Kabupaten Bogor,Jasinga,Setu
+538,Jawa Barat,78,Kabupaten Bogor,Jasinga,Tegal Wangi
+539,Jawa Barat,78,Kabupaten Bogor,Jasinga,Wirajaya
+540,Jawa Barat,78,Kabupaten Bogor,Jonggol,Balekambang
+541,Jawa Barat,78,Kabupaten Bogor,Jonggol,Bendungan
+542,Jawa Barat,78,Kabupaten Bogor,Jonggol,Cibodas
+543,Jawa Barat,78,Kabupaten Bogor,Jonggol,Singajaya
+544,Jawa Barat,78,Kabupaten Bogor,Jonggol,Singasari
+545,Jawa Barat,78,Kabupaten Bogor,Jonggol,Sirnagalih
+546,Jawa Barat,78,Kabupaten Bogor,Jonggol,Sukagalih
+547,Jawa Barat,78,Kabupaten Bogor,Jonggol,Sukajaya
+548,Jawa Barat,78,Kabupaten Bogor,Jonggol,Sukamaju
+549,Jawa Barat,78,Kabupaten Bogor,Jonggol,Sukamanah
+550,Jawa Barat,78,Kabupaten Bogor,Jonggol,Sukanegara
+551,Jawa Barat,78,Kabupaten Bogor,Jonggol,Sukasirna
+552,Jawa Barat,78,Kabupaten Bogor,Jonggol,Weninggalih
+553,Jawa Barat,78,Kabupaten Bogor,Jonggol,Jonggol
+554,Jawa Barat,78,Kabupaten Bogor,Kemang,Bojong
+555,Jawa Barat,78,Kabupaten Bogor,Kemang,Jampang
+556,Jawa Barat,78,Kabupaten Bogor,Kemang,Kemang
+557,Jawa Barat,78,Kabupaten Bogor,Kemang,Pabuaran
+558,Jawa Barat,78,Kabupaten Bogor,Kemang,Parakan Jaya
+559,Jawa Barat,78,Kabupaten Bogor,Kemang,Pondok Udik
+560,Jawa Barat,78,Kabupaten Bogor,Kemang,Semplak Barat
+561,Jawa Barat,78,Kabupaten Bogor,Kemang,Tegal
+562,Jawa Barat,78,Kabupaten Bogor,Kemang,Atang Senjaya
+563,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Bantar Jati
+564,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Bojong
+565,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Cikahuripan
+566,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Kembang Kuning
+567,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Klapanunggal
+568,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Leuwikaret
+569,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Ligarmukti
+570,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Lulut
+571,Jawa Barat,78,Kabupaten Bogor,Klapanunggal,Nambo
+572,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Barengkok
+573,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Cibeber I
+574,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Cibeber II
+575,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Karacak
+576,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Karyasari
+577,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Karehkel
+578,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Leuwiliang
+579,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Leuwimekar
+580,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Pabangbon
+581,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Purasari
+582,Jawa Barat,78,Kabupaten Bogor,Leuwiliang,Puraseda
+583,Jawa Barat,78,Kabupaten Bogor,Leuwisadeng,Babakan Sadeng
+584,Jawa Barat,78,Kabupaten Bogor,Leuwisadeng,Kalong I
+585,Jawa Barat,78,Kabupaten Bogor,Leuwisadeng,Kalong II
+586,Jawa Barat,78,Kabupaten Bogor,Leuwisadeng,Leuwisadeng
+587,Jawa Barat,78,Kabupaten Bogor,Leuwisadeng,Sadeng
+588,Jawa Barat,78,Kabupaten Bogor,Leuwisadeng,Sadengkolot
+589,Jawa Barat,78,Kabupaten Bogor,Leuwisadeng,Sibanteng
+590,Jawa Barat,78,Kabupaten Bogor,Leuwisadeng,Wangun Jaya
+591,Jawa Barat,78,Kabupaten Bogor,Megamendung,Cipayung Datar
+592,Jawa Barat,78,Kabupaten Bogor,Megamendung,Cipayung Girang
+593,Jawa Barat,78,Kabupaten Bogor,Megamendung,Gadog
+594,Jawa Barat,78,Kabupaten Bogor,Megamendung,Kuta
+595,Jawa Barat,78,Kabupaten Bogor,Megamendung,Megamendung
+596,Jawa Barat,78,Kabupaten Bogor,Megamendung,Sukagalih
+597,Jawa Barat,78,Kabupaten Bogor,Megamendung,Sukakarya
+598,Jawa Barat,78,Kabupaten Bogor,Megamendung,Sukamahi
+599,Jawa Barat,78,Kabupaten Bogor,Megamendung,Sukamaju
+600,Jawa Barat,78,Kabupaten Bogor,Megamendung,Sukamanah
+601,Jawa Barat,78,Kabupaten Bogor,Megamendung,Sukaresmi
+602,Jawa Barat,78,Kabupaten Bogor,Nanggung,Bantar Karet
+603,Jawa Barat,78,Kabupaten Bogor,Nanggung,Cisarua
+604,Jawa Barat,78,Kabupaten Bogor,Nanggung,Curug Bitung
+605,Jawa Barat,78,Kabupaten Bogor,Nanggung,Hambaro
+606,Jawa Barat,78,Kabupaten Bogor,Nanggung,Kalong Liud
+607,Jawa Barat,78,Kabupaten Bogor,Nanggung,Malasari
+608,Jawa Barat,78,Kabupaten Bogor,Nanggung,Nanggung
+609,Jawa Barat,78,Kabupaten Bogor,Nanggung,Pangkal Jaya
+610,Jawa Barat,78,Kabupaten Bogor,Nanggung,Parakan Muncang
+611,Jawa Barat,78,Kabupaten Bogor,Nanggung,Sukaluyu
+612,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Ciasihan
+613,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Ciasmara
+614,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Cibening
+615,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Cibitung Kulon
+616,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Cibitung Wetan
+617,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Cibunian
+618,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Cimayang
+619,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Gunung Bunder
+620,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Gunung Bunder II
+621,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Gunung Menyan
+622,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Gunung Picung
+623,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Gunung Sari
+624,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Pamijahan
+625,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Pasarean
+626,Jawa Barat,78,Kabupaten Bogor,Pamijahan,Purwabakti
+627,Jawa Barat,78,Kabupaten Bogor,Parung,Bojong Indah
+628,Jawa Barat,78,Kabupaten Bogor,Parung,Bojong Sempu
+629,Jawa Barat,78,Kabupaten Bogor,Parung,Cogreg
+630,Jawa Barat,78,Kabupaten Bogor,Parung,Iwul
+631,Jawa Barat,78,Kabupaten Bogor,Parung,Jabon Mekar
+632,Jawa Barat,78,Kabupaten Bogor,Parung,Pamegarsari
+633,Jawa Barat,78,Kabupaten Bogor,Parung,Parung
+634,Jawa Barat,78,Kabupaten Bogor,Parung,Waru
+635,Jawa Barat,78,Kabupaten Bogor,Parung,Warujaya
+636,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Cibunar
+637,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Cikuda
+638,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Dago
+639,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Gintung Cilejet
+640,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Gorowong
+641,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Jagabaya
+642,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Jagabita
+643,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Kabasiran
+644,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Lumpang
+645,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Parung Panjang
+646,Jawa Barat,78,Kabupaten Bogor,Parung Panjang,Pingku
+647,Jawa Barat,78,Kabupaten Bogor,Rancabungur,Bantarjaya
+648,Jawa Barat,78,Kabupaten Bogor,Rancabungur,Bantarsari
+649,Jawa Barat,78,Kabupaten Bogor,Rancabungur,Candali
+650,Jawa Barat,78,Kabupaten Bogor,Rancabungur,Cimulang
+651,Jawa Barat,78,Kabupaten Bogor,Rancabungur,Mekarsari
+652,Jawa Barat,78,Kabupaten Bogor,Rancabungur,Pasirgaok
+653,Jawa Barat,78,Kabupaten Bogor,Rancabungur,Rancabungur
+654,Jawa Barat,78,Kabupaten Bogor,Rumpin,Cibodas
+655,Jawa Barat,78,Kabupaten Bogor,Rumpin,Cidokom
+656,Jawa Barat,78,Kabupaten Bogor,Rumpin,Cipinang
+657,Jawa Barat,78,Kabupaten Bogor,Rumpin,Gobang
+658,Jawa Barat,78,Kabupaten Bogor,Rumpin,Kampung Sawah
+659,Jawa Barat,78,Kabupaten Bogor,Rumpin,Kertajaya
+660,Jawa Barat,78,Kabupaten Bogor,Rumpin,Leuwibatu
+661,Jawa Barat,78,Kabupaten Bogor,Rumpin,Mekar Jaya
+662,Jawa Barat,78,Kabupaten Bogor,Rumpin,Mekar Sari
+663,Jawa Barat,78,Kabupaten Bogor,Rumpin,Rabak
+664,Jawa Barat,78,Kabupaten Bogor,Rumpin,Rumpin
+665,Jawa Barat,78,Kabupaten Bogor,Rumpin,Sukamulya
+666,Jawa Barat,78,Kabupaten Bogor,Rumpin,Sukasari
+667,Jawa Barat,78,Kabupaten Bogor,Rumpin,Taman Sari
+668,Jawa Barat,78,Kabupaten Bogor,Sukajaya,Cileuksa
+669,Jawa Barat,78,Kabupaten Bogor,Sukajaya,Cisarua
+670,Jawa Barat,78,Kabupaten Bogor,Sukajaya,Harkatjaya
+671,Jawa Barat,78,Kabupaten Bogor,Sukajaya,Kiarapandak
+672,Jawa Barat,78,Kabupaten Bogor,Sukajaya,Kiarasari
+673,Jawa Barat,78,Kabupaten Bogor,Sukajaya,Pasir Madang
+674,Jawa Barat,78,Kabupaten Bogor,Sukajaya,Sipayung
+675,Jawa Barat,78,Kabupaten Bogor,Sukajaya,Sukamulih
+676,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Cibadak
+677,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Pabuaran
+678,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Sirnajaya
+679,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Sukadamai
+680,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Sukaharja
+681,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Sukamakmur
+682,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Sukamulya
+683,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Sukaresmi
+684,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Sukawangi
+685,Jawa Barat,78,Kabupaten Bogor,Sukamakmur,Wargajaya
+686,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Cadas Ngampar
+687,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Cibanon
+688,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Cijujung
+689,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Cikeas
+690,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Cilebut Barat
+691,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Cilebut Timur
+692,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Cimandala
+693,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Gunung Geulis
+694,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Nagrak
+695,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Pasir Jambu
+696,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Pasirlaja
+697,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Sukaraja
+698,Jawa Barat,78,Kabupaten Bogor,Sukaraja,Sukatani
+699,Jawa Barat,78,Kabupaten Bogor,Tajurhalang,Citayam
+700,Jawa Barat,78,Kabupaten Bogor,Tajurhalang,Kalisuren
+701,Jawa Barat,78,Kabupaten Bogor,Tajurhalang,Nanggerang
+702,Jawa Barat,78,Kabupaten Bogor,Tajurhalang,Sasak Panjang
+703,Jawa Barat,78,Kabupaten Bogor,Tajurhalang,Sukmajaya
+704,Jawa Barat,78,Kabupaten Bogor,Tajurhalang,Tajurhalang
+705,Jawa Barat,78,Kabupaten Bogor,Tajurhalang,Tonjong
+706,Jawa Barat,78,Kabupaten Bogor,Tamansari,Pasireurih
+707,Jawa Barat,78,Kabupaten Bogor,Tamansari,Sirnagalih
+708,Jawa Barat,78,Kabupaten Bogor,Tamansari,Sukajadi
+709,Jawa Barat,78,Kabupaten Bogor,Tamansari,Sukajaya
+710,Jawa Barat,78,Kabupaten Bogor,Tamansari,Sukaluyu
+711,Jawa Barat,78,Kabupaten Bogor,Tamansari,Sukamantri
+712,Jawa Barat,78,Kabupaten Bogor,Tamansari,Sukaresmi
+713,Jawa Barat,78,Kabupaten Bogor,Tamansari,Tamansari
+714,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Antajaya
+715,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Buanajaya
+716,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Cibadak
+717,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Pasir Tanjung
+718,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Selawangi
+719,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Sirnarasa
+720,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Sirnasari
+721,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Sukarasa
+722,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Tanjungrasa
+723,Jawa Barat,78,Kabupaten Bogor,Tanjungsari,Tanjungsari
+724,Jawa Barat,78,Kabupaten Bogor,Tenjo,Babakan
+725,Jawa Barat,78,Kabupaten Bogor,Tenjo,Batok
+726,Jawa Barat,78,Kabupaten Bogor,Tenjo,Bojong
+727,Jawa Barat,78,Kabupaten Bogor,Tenjo,Cilaku
+728,Jawa Barat,78,Kabupaten Bogor,Tenjo,Ciomas
+729,Jawa Barat,78,Kabupaten Bogor,Tenjo,Singabangsa
+730,Jawa Barat,78,Kabupaten Bogor,Tenjo,Singabraja
+731,Jawa Barat,78,Kabupaten Bogor,Tenjo,Tapos
+732,Jawa Barat,78,Kabupaten Bogor,Tenjo,Tenjo
+733,Jawa Barat,78,Kabupaten Bogor,Tenjolaya,Cibitung Tengah
+734,Jawa Barat,78,Kabupaten Bogor,Tenjolaya,Cinangneng
+735,Jawa Barat,78,Kabupaten Bogor,Tenjolaya,Gunung Malang
+736,Jawa Barat,78,Kabupaten Bogor,Tenjolaya,Situ Daun
+737,Jawa Barat,78,Kabupaten Bogor,Tenjolaya,Tapos 1
+738,Jawa Barat,78,Kabupaten Bogor,Tenjolaya,Tapos 2
+739,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Bojongkaso
+740,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Bunisari
+741,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Karangsari
+742,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Mekarsari
+743,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Mulyasari
+744,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Neglasari
+745,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Sinarlaut
+746,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Sukamanah
+747,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Tanjungsari
+748,Jawa Barat,104,Kabupaten Cianjur,Agrabinta,Wanasari
+749,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Bojongpicung
+750,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Cibarengkok
+751,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Cikondang
+752,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Hegarmanah
+753,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Jati
+754,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Jatisari
+755,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Kemang
+756,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Neglasari
+757,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Sukajaya
+758,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Sukarama
+759,Jawa Barat,104,Kabupaten Cianjur,Bojongpicung,Sukaratu
+760,Jawa Barat,104,Kabupaten Cianjur,Campaka,Campaka
+761,Jawa Barat,104,Kabupaten Cianjur,Campaka,Cidadap
+762,Jawa Barat,104,Kabupaten Cianjur,Campaka,Cimenteng
+763,Jawa Barat,104,Kabupaten Cianjur,Campaka,Girimukti
+764,Jawa Barat,104,Kabupaten Cianjur,Campaka,Karyamukti
+765,Jawa Barat,104,Kabupaten Cianjur,Campaka,Margaluyu
+766,Jawa Barat,104,Kabupaten Cianjur,Campaka,Mekarjaya
+767,Jawa Barat,104,Kabupaten Cianjur,Campaka,Sukadana
+768,Jawa Barat,104,Kabupaten Cianjur,Campaka,Sukajadi
+769,Jawa Barat,104,Kabupaten Cianjur,Campaka,Susukan
+770,Jawa Barat,104,Kabupaten Cianjur,Campaka,Wangunjaya
+771,Jawa Barat,104,Kabupaten Cianjur,Campaka Mulya,Campakamulya
+772,Jawa Barat,104,Kabupaten Cianjur,Campaka Mulya,Campakawarna
+773,Jawa Barat,104,Kabupaten Cianjur,Campaka Mulya,Cibanggala
+774,Jawa Barat,104,Kabupaten Cianjur,Campaka Mulya,Sukasirna
+775,Jawa Barat,104,Kabupaten Cianjur,Campaka Mulya,Sukabungah
+776,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Babakankaret
+777,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Limbangan Sari
+778,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Mekarsari
+779,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Nagrak
+780,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Sukamaju
+781,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Bojongherang
+782,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Muka
+783,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Pamoyanan
+784,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Sawah Gede
+785,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Sayang
+786,Jawa Barat,104,Kabupaten Cianjur,Cianjur,Solokpandan
+787,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Cibadak
+788,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Cibaregbeg
+789,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Cibokor
+790,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Cihaur
+791,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Cikondang
+792,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Cimanggu
+793,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Cipetir
+794,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Cisalak
+795,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Girimulya
+796,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Kanoman
+797,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Karangnunggal
+798,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Mayak
+799,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Peuteuycondong
+800,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Salamnunggal
+801,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Selagedang
+802,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Sukamaju
+803,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Sukamanah
+804,Jawa Barat,104,Kabupaten Cianjur,Cibeber,Sukaraharja
+805,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Batulawang
+806,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Ciburial
+807,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Cikangkareng
+808,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Cimaskara
+809,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Girijaya
+810,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Hamerang
+811,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Mekarmukti
+812,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Padasuka
+813,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Pamoyanan
+814,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Pananggapan
+815,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Panyindangan
+816,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Sukajadi
+817,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Sukamekar
+818,Jawa Barat,104,Kabupaten Cianjur,Cibinong,Wargaluyu
+819,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Cibuluh
+820,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Cidamar
+821,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Cimaragang
+822,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Cisalak
+823,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Gelarpawitan
+824,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Jayapura
+825,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Karangwangi
+826,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Karyabakti
+827,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Kertajadi
+828,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Mekarjaya
+829,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Neglasari
+830,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Puncakbaru
+831,Jawa Barat,104,Kabupaten Cianjur,Cidaun,Sukapura
+832,Jawa Barat,104,Kabupaten Cianjur,Cijati,Bojonglarang
+833,Jawa Barat,104,Kabupaten Cianjur,Cijati,Caringin
+834,Jawa Barat,104,Kabupaten Cianjur,Cijati,Cibodas
+835,Jawa Barat,104,Kabupaten Cianjur,Cijati,Cijati
+836,Jawa Barat,104,Kabupaten Cianjur,Cijati,Padaasih
+837,Jawa Barat,104,Kabupaten Cianjur,Cijati,Parakantugu
+838,Jawa Barat,104,Kabupaten Cianjur,Cijati,Sinarbakti
+839,Jawa Barat,104,Kabupaten Cianjur,Cijati,Sukaluyu
+840,Jawa Barat,104,Kabupaten Cianjur,Cijati,Sukamahi
+841,Jawa Barat,104,Kabupaten Cianjur,Cijati,Sukamaju
+842,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Cikadu
+843,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Cisaranten
+844,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Kalapanunggal
+845,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Mekarjaya
+846,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Mekarlaksana
+847,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Mekarwangi
+848,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Padaluyu
+849,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Sukaluyu
+850,Jawa Barat,104,Kabupaten Cianjur,Cikadu,Sukamulya
+851,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Cigunungherang
+852,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Cijagang
+853,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Cinangsi
+854,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Ciramagirang
+855,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Gudang
+856,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Kamurang
+857,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Lembahsari
+858,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Majalaya
+859,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Mekargalih
+860,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Mekarjaya
+861,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Mekarmulya
+862,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Mekarsari
+863,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Mentengsari
+864,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Neglasari
+865,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Padajaya
+866,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Sukagalih
+867,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Sukamulya
+868,Jawa Barat,104,Kabupaten Cianjur,Cikalongkulon,Warudoyong
+869,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Cibinonghilir
+870,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Ciharashas
+871,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Mulyasari
+872,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Munjul
+873,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Rahong
+874,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Rancagoong
+875,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Sindangsari
+876,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Sirnagalih
+877,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Sukakerta
+878,Jawa Barat,104,Kabupaten Cianjur,Cilaku,Sukasari
+879,Jawa Barat,104,Kabupaten Cianjur,Cipanas,Batulawang
+880,Jawa Barat,104,Kabupaten Cianjur,Cipanas,Ciloto
+881,Jawa Barat,104,Kabupaten Cianjur,Cipanas,Cimacan
+882,Jawa Barat,104,Kabupaten Cianjur,Cipanas,Cipanas
+883,Jawa Barat,104,Kabupaten Cianjur,Cipanas,Palasari
+884,Jawa Barat,104,Kabupaten Cianjur,Cipanas,Sindangjaya
+885,Jawa Barat,104,Kabupaten Cianjur,Cipanas,Sindanglaya
+886,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Cibiuk
+887,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Ciranjang
+888,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Gunungsari
+889,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Karangwangi
+890,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Kertajaya
+891,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Mekargalih
+892,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Nanggalamekar
+893,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Sindangjaya
+894,Jawa Barat,104,Kabupaten Cianjur,Ciranjang,Sindangsari
+895,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Benjot
+896,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Cibeureum
+897,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Cibulakan
+898,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Cijedil
+899,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Cirumput
+900,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Galudra
+901,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Gasol
+902,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Mangunkerta
+903,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Nyalindung
+904,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Padaluyu
+905,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Sarampad
+906,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Sukajaya
+907,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Sukamanah
+908,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Sukamulya
+909,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Talaga
+910,Jawa Barat,104,Kabupaten Cianjur,Cugenang,Wangunjaya
+911,Jawa Barat,104,Kabupaten Cianjur,Gekbrong,Bangbayang
+912,Jawa Barat,104,Kabupaten Cianjur,Gekbrong,Cikahuripan
+913,Jawa Barat,104,Kabupaten Cianjur,Gekbrong,Cikancana
+914,Jawa Barat,104,Kabupaten Cianjur,Gekbrong,Cintaasih
+915,Jawa Barat,104,Kabupaten Cianjur,Gekbrong,Gekbrong
+916,Jawa Barat,104,Kabupaten Cianjur,Gekbrong,Kebonpeuteuy
+917,Jawa Barat,104,Kabupaten Cianjur,Gekbrong,Songgom
+918,Jawa Barat,104,Kabupaten Cianjur,Gekbrong,Sukaratu
+919,Jawa Barat,104,Kabupaten Cianjur,Haurwangi,Cihea
+920,Jawa Barat,104,Kabupaten Cianjur,Haurwangi,Cipeuyeum
+921,Jawa Barat,104,Kabupaten Cianjur,Haurwangi,Haurwangi
+922,Jawa Barat,104,Kabupaten Cianjur,Haurwangi,Kertamukti
+923,Jawa Barat,104,Kabupaten Cianjur,Haurwangi,Kertasari
+924,Jawa Barat,104,Kabupaten Cianjur,Haurwangi,Mekarwangi
+925,Jawa Barat,104,Kabupaten Cianjur,Haurwangi,Ramasari
+926,Jawa Barat,104,Kabupaten Cianjur,Haurwangi,Sukatani
+927,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Bojongkasih
+928,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Gandasari
+929,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Kadupandak
+930,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Neglasari
+931,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Pasirdalem
+932,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Sindangsari
+933,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Sukakerta
+934,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Sukaraharja
+935,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Sukaraja
+936,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Sukaresmi
+937,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Sukasari
+938,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Talagasari
+939,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Wargaasih
+940,Jawa Barat,104,Kabupaten Cianjur,Kadupandak,Wargasari
+941,Banten,456,Kota Tangerang,Karangtengah,Babakancaringin
+942,Banten,456,Kota Tangerang,Karangtengah,Bojong
+943,Banten,456,Kota Tangerang,Karangtengah,Ciherang
+944,Banten,456,Kota Tangerang,Karangtengah,Hegarmanah
+945,Banten,456,Kota Tangerang,Karangtengah,Langensari
+946,Banten,456,Kota Tangerang,Karangtengah,Maleber
+947,Banten,456,Kota Tangerang,Karangtengah,Sabandar
+948,Banten,456,Kota Tangerang,Karangtengah,Sindangasih
+949,Banten,456,Kota Tangerang,Karangtengah,Sindanglaka
+950,Banten,456,Kota Tangerang,Karangtengah,Sukajadi
+951,Banten,456,Kota Tangerang,Karangtengah,Sukamanah
+952,Banten,456,Kota Tangerang,Karangtengah,Sukamantri
+953,Banten,456,Kota Tangerang,Karangtengah,Sukamulya
+954,Banten,456,Kota Tangerang,Karangtengah,Sukasarana
+955,Banten,456,Kota Tangerang,Karangtengah,Sukasari
+956,Banten,456,Kota Tangerang,Karangtengah,Sukataris
+957,Jawa Barat,104,Kabupaten Cianjur,Leles,Karyamukti
+958,Jawa Barat,104,Kabupaten Cianjur,Leles,Mandalawangi
+959,Jawa Barat,104,Kabupaten Cianjur,Leles,Nagasari
+960,Jawa Barat,104,Kabupaten Cianjur,Leles,Puncakwangi
+961,Jawa Barat,104,Kabupaten Cianjur,Leles,Purabaya
+962,Jawa Barat,104,Kabupaten Cianjur,Leles,Pusakasari
+963,Jawa Barat,104,Kabupaten Cianjur,Leles,Sirnasari
+964,Jawa Barat,104,Kabupaten Cianjur,Leles,Sukajaya
+965,Jawa Barat,104,Kabupaten Cianjur,Leles,Sukamulya
+966,Jawa Barat,104,Kabupaten Cianjur,Leles,Sukasirna
+967,Jawa Barat,104,Kabupaten Cianjur,Leles,Walahir
+968,Jawa Barat,104,Kabupaten Cianjur,Mande,Bobojong
+969,Jawa Barat,104,Kabupaten Cianjur,Mande,Ciandam
+970,Jawa Barat,104,Kabupaten Cianjur,Mande,Cikidangbayabang
+971,Jawa Barat,104,Kabupaten Cianjur,Mande,Jamali
+972,Jawa Barat,104,Kabupaten Cianjur,Mande,Kademangan
+973,Jawa Barat,104,Kabupaten Cianjur,Mande,Kutawaringin
+974,Jawa Barat,104,Kabupaten Cianjur,Mande,Leuwikoja
+975,Jawa Barat,104,Kabupaten Cianjur,Mande,Mande
+976,Jawa Barat,104,Kabupaten Cianjur,Mande,Mekarjaya
+977,Jawa Barat,104,Kabupaten Cianjur,Mande,Mulyasari
+978,Jawa Barat,104,Kabupaten Cianjur,Mande,Murnisari
+979,Jawa Barat,104,Kabupaten Cianjur,Mande,Sukamanah
+980,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Balegede
+981,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Cinerang
+982,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Malati
+983,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Mekarsari
+984,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Naringgul
+985,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Sukabakti
+986,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Sukamulya
+987,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Wanasari
+988,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Wangunjaya
+989,Jawa Barat,104,Kabupaten Cianjur,Naringgul,Wangunsari
+990,Jawa Barat,104,Kabupaten Cianjur,Pacet,Cibodas
+991,Jawa Barat,104,Kabupaten Cianjur,Pacet,Ciherang
+992,Jawa Barat,104,Kabupaten Cianjur,Pacet,Cipendawa
+993,Jawa Barat,104,Kabupaten Cianjur,Pacet,Ciputri
+994,Jawa Barat,104,Kabupaten Cianjur,Pacet,Gadog
+995,Jawa Barat,104,Kabupaten Cianjur,Pacet,Sukanagalih
+996,Jawa Barat,104,Kabupaten Cianjur,Pacet,Sukatani
+997,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Bunijaya
+998,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Buniwangi
+999,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Gelar Anyar
+1000,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Karangharja
+1001,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Kertaraharja
+1002,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Mekarsari
+1003,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Padamaju
+1004,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Pagelaran
+1005,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Pangadegan
+1006,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Pasirbaru
+1007,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Selagedang
+1008,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Sindangkerta
+1009,Jawa Barat,104,Kabupaten Cianjur,Pagelaran,Situhiang
+1010,Jawa Barat,104,Kabupaten Cianjur,Pasirkuda,Girijaya
+1011,Jawa Barat,104,Kabupaten Cianjur,Pasirkuda,Girimukti
+1012,Jawa Barat,104,Kabupaten Cianjur,Pasirkuda,Kalibaru
+1013,Jawa Barat,104,Kabupaten Cianjur,Pasirkuda,Karangjaya
+1014,Jawa Barat,104,Kabupaten Cianjur,Pasirkuda,Kubang
+1015,Jawa Barat,104,Kabupaten Cianjur,Pasirkuda,Mekarmulya
+1016,Jawa Barat,104,Kabupaten Cianjur,Pasirkuda,Pusakajaya
+1017,Jawa Barat,104,Kabupaten Cianjur,Pasirkuda,Simpang
+1018,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Girimukti
+1019,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Hegarsari
+1020,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Jatisari
+1021,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Jayagiri
+1022,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Kertasari
+1023,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Muaracikadu
+1024,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Saganten
+1025,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Sirnagalih
+1026,Jawa Barat,104,Kabupaten Cianjur,Sindangbarang,Talagasari
+1027,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Babakansari
+1028,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Hegarmanah
+1029,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Mekarjaya
+1030,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Panyusuhan
+1031,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Selajambe
+1032,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Sidangraja
+1033,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Sukaluyu
+1034,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Sukamulya
+1035,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Sukasirna
+1036,Jawa Barat,104,Kabupaten Cianjur,Sukaluyu,Tanjungsari
+1037,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Ciguha
+1038,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Gunungsari
+1039,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Jayagiri
+1040,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Sindangsari
+1041,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Sukajembar
+1042,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Sukakarya
+1043,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Sukalaksana
+1044,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Sukamekar
+1045,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Sukanagara
+1046,Jawa Barat,104,Kabupaten Cianjur,Sukanagara,Sukarame
+1047,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Cibadak
+1048,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Cibanteng
+1049,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Ciwalen
+1050,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Cikancana
+1051,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Cikanyere
+1052,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Kawungluwuk
+1053,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Kubang
+1054,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Pakuon
+1055,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Rawabelut
+1056,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Sukamahi
+1057,Jawa Barat,104,Kabupaten Cianjur,Sukaresmi,Sukaresmi
+1058,Jawa Barat,104,Kabupaten Cianjur,Takokak,Bungbangsari
+1059,Jawa Barat,104,Kabupaten Cianjur,Takokak,Cisujen
+1060,Jawa Barat,104,Kabupaten Cianjur,Takokak,Hegarmanah
+1061,Jawa Barat,104,Kabupaten Cianjur,Takokak,Pasawahan
+1062,Jawa Barat,104,Kabupaten Cianjur,Takokak,Simpang
+1063,Jawa Barat,104,Kabupaten Cianjur,Takokak,Sindanghayu
+1064,Jawa Barat,104,Kabupaten Cianjur,Takokak,Sindangresmi
+1065,Jawa Barat,104,Kabupaten Cianjur,Takokak,Sukagalih
+1066,Jawa Barat,104,Kabupaten Cianjur,Takokak,Waringinsari
+1067,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Bojongpetir
+1068,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Cilongsong
+1069,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Karangtengah
+1070,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Kertajaya
+1071,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Margaluyu
+1072,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Padaluyu
+1073,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Pagermaneuh
+1074,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Pasir Jambu
+1075,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Rawagede
+1076,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Sirnajaya
+1077,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Sukajaya
+1078,Jawa Barat,104,Kabupaten Cianjur,Tanggeung,Tanggeung
+1079,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Bunikasih
+1080,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Bunisari
+1081,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Cieundeur
+1082,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Cikaroya
+1083,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Cisarandi
+1084,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Ciwalen
+1085,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Jambudipa
+1086,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Mekarwangi
+1087,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Sukamulya
+1088,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Sukawangi
+1089,Jawa Barat,104,Kabupaten Cianjur,Warungkondang,Tegallega
+1090,Jawa Barat,115,Kota Depok,Beji,Beji
+1091,Jawa Barat,115,Kota Depok,Beji,Beji Timur
+1092,Jawa Barat,115,Kota Depok,Beji,Kemirimuka
+1093,Jawa Barat,115,Kota Depok,Beji,Kukusan
+1094,Jawa Barat,115,Kota Depok,Beji,Pondokcina
+1095,Jawa Barat,115,Kota Depok,Beji,Tanahbaru
+1096,Jawa Barat,115,Kota Depok,Bojongsari,Bojongsari
+1097,Jawa Barat,115,Kota Depok,Bojongsari,Bojongsari Baru
+1098,Jawa Barat,115,Kota Depok,Bojongsari,Curug
+1099,Jawa Barat,115,Kota Depok,Bojongsari,Durenmekar
+1100,Jawa Barat,115,Kota Depok,Bojongsari,Durenseribu
+1101,Jawa Barat,115,Kota Depok,Bojongsari,Pondokpetir
+1102,Jawa Barat,115,Kota Depok,Bojongsari,Serua
+1103,Jawa Barat,115,Kota Depok,Cilodong,Cilodong
+1104,Jawa Barat,115,Kota Depok,Cilodong,Jatimulya
+1105,Jawa Barat,115,Kota Depok,Cilodong,Kalibaru
+1106,Jawa Barat,115,Kota Depok,Cilodong,Kalimulya
+1107,Jawa Barat,115,Kota Depok,Cilodong,Sukamaju
+1108,Jawa Barat,115,Kota Depok,Cimanggis,Cisalak Pasar
+1109,Jawa Barat,115,Kota Depok,Cimanggis,Curug
+1110,Jawa Barat,115,Kota Depok,Cimanggis,Harjamukti
+1111,Jawa Barat,115,Kota Depok,Cimanggis,Mekarsari
+1112,Jawa Barat,115,Kota Depok,Cimanggis,Pasir Gunung Selatan
+1113,Jawa Barat,115,Kota Depok,Cimanggis,Tugu
+1114,Jawa Barat,115,Kota Depok,Cinere,Cinere
+1115,Jawa Barat,115,Kota Depok,Cinere,Gandul
+1116,Jawa Barat,115,Kota Depok,Cinere,Pangkalan Jati
+1117,Jawa Barat,115,Kota Depok,Cinere,Pangkalan Jati Baru
+1118,Jawa Barat,115,Kota Depok,Cipayung,Bojong Pondok Terong
+1119,Jawa Barat,115,Kota Depok,Cipayung,Cipayung
+1120,Jawa Barat,115,Kota Depok,Cipayung,Cipayung Jaya
+1121,Jawa Barat,115,Kota Depok,Cipayung,Pondok Jaya
+1122,Jawa Barat,115,Kota Depok,Cipayung,Ratujaya
+1123,Jawa Barat,115,Kota Depok,Limo,Grogol
+1124,Jawa Barat,115,Kota Depok,Limo,Krukut
+1125,Jawa Barat,115,Kota Depok,Limo,Limo
+1126,Jawa Barat,115,Kota Depok,Limo,Meruyung
+1127,Jawa Barat,115,Kota Depok,Pancoran Mas,Depok
+1128,Jawa Barat,115,Kota Depok,Pancoran Mas,Depok Jaya
+1129,Jawa Barat,115,Kota Depok,Pancoran Mas,Mampang
+1130,Jawa Barat,115,Kota Depok,Pancoran Mas,Pancoran Mas
+1131,Jawa Barat,115,Kota Depok,Pancoran Mas,Rangkapan Jaya
+1132,Jawa Barat,115,Kota Depok,Pancoran Mas,Rangkapan Jaya Baru
+1133,Jawa Barat,115,Kota Depok,Sawangan,Bedahan
+1134,Jawa Barat,115,Kota Depok,Sawangan,Cinangka
+1135,Jawa Barat,115,Kota Depok,Sawangan,Kedaung
+1136,Jawa Barat,115,Kota Depok,Sawangan,Pasir Putih
+1137,Jawa Barat,115,Kota Depok,Sawangan,Pengasinan
+1138,Jawa Barat,115,Kota Depok,Sawangan,Sawangan Baru
+1139,Jawa Barat,115,Kota Depok,Sawangan,Sawangan
+1140,Jawa Barat,115,Kota Depok,Sukmajaya,Abadijaya
+1141,Jawa Barat,115,Kota Depok,Sukmajaya,Baktijaya
+1142,Jawa Barat,115,Kota Depok,Sukmajaya,Cisalak
+1143,Jawa Barat,115,Kota Depok,Sukmajaya,Mekarjaya
+1144,Jawa Barat,115,Kota Depok,Sukmajaya,Sukmajaya
+1145,Jawa Barat,115,Kota Depok,Sukmajaya,Tirtajaya
+1146,Jawa Barat,115,Kota Depok,Tapos,Cilangkap
+1147,Jawa Barat,115,Kota Depok,Tapos,Cimpaeun
+1148,Jawa Barat,115,Kota Depok,Tapos,Jatijajar
+1149,Jawa Barat,115,Kota Depok,Tapos,Leuwinanggung
+1150,Jawa Barat,115,Kota Depok,Tapos,Sukamaju Baru
+1151,Jawa Barat,115,Kota Depok,Tapos,Sukatani
+1152,Jawa Barat,115,Kota Depok,Tapos,Tapos
+1153,DKI Jakarta,152,Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat
+1154,DKI Jakarta,152,Jakarta Pusat,Cempaka Putih,Cempaka Putih Timur
+1155,DKI Jakarta,152,Jakarta Pusat,Cempaka Putih,Rawasari
+1156,DKI Jakarta,152,Jakarta Pusat,Gambir,Cideng
+1157,DKI Jakarta,152,Jakarta Pusat,Gambir,Duri Pulo
+1158,DKI Jakarta,152,Jakarta Pusat,Gambir,Gambir
+1159,DKI Jakarta,152,Jakarta Pusat,Gambir,Kebon Kelapa
+1160,DKI Jakarta,152,Jakarta Pusat,Gambir,Petojo Selatan
+1161,DKI Jakarta,152,Jakarta Pusat,Gambir,Petojo Utara
+1162,DKI Jakarta,152,Jakarta Pusat,Johar Baru,Galur
+1163,DKI Jakarta,152,Jakarta Pusat,Johar Baru,Johar Baru
+1164,DKI Jakarta,152,Jakarta Pusat,Johar Baru,Kampung Rawa
+1165,DKI Jakarta,152,Jakarta Pusat,Johar Baru,Tanah Tinggi
+1166,DKI Jakarta,152,Jakarta Pusat,Kemayoran,Cempaka Baru
+1167,DKI Jakarta,152,Jakarta Pusat,Kemayoran,Gunung Sahari Selatan
+1168,DKI Jakarta,152,Jakarta Pusat,Kemayoran,Harapan Mulya
+1169,DKI Jakarta,152,Jakarta Pusat,Kemayoran,Kebon Kosong
+1170,DKI Jakarta,152,Jakarta Pusat,Kemayoran,Kemayoran
+1171,DKI Jakarta,152,Jakarta Pusat,Kemayoran,Serdang
+1172,DKI Jakarta,152,Jakarta Pusat,Kemayoran,Sumur Batu
+1173,DKI Jakarta,152,Jakarta Pusat,Kemayoran,Utan Panjang
+1174,DKI Jakarta,152,Jakarta Pusat,Menteng,Cikini
+1175,DKI Jakarta,152,Jakarta Pusat,Menteng,Gondangdia
+1176,DKI Jakarta,152,Jakarta Pusat,Menteng,Kebon Sirih
+1177,DKI Jakarta,152,Jakarta Pusat,Menteng,Menteng
+1178,DKI Jakarta,152,Jakarta Pusat,Menteng,Pegangsaan
+1179,DKI Jakarta,152,Jakarta Pusat,Sawah Besar,Gunung Sahari Utara
+1180,DKI Jakarta,152,Jakarta Pusat,Sawah Besar,Karang Anyar
+1181,DKI Jakarta,152,Jakarta Pusat,Sawah Besar,Kartini
+1182,DKI Jakarta,152,Jakarta Pusat,Sawah Besar,Mangga Dua Selatan
+1183,DKI Jakarta,152,Jakarta Pusat,Sawah Besar,Pasar Baru
+1184,DKI Jakarta,152,Jakarta Pusat,Senen,Bungur
+1185,DKI Jakarta,152,Jakarta Pusat,Senen,Kenari
+1186,DKI Jakarta,152,Jakarta Pusat,Senen,Kramat
+1187,DKI Jakarta,152,Jakarta Pusat,Senen,Kwitang
+1188,DKI Jakarta,152,Jakarta Pusat,Senen,Paseban
+1189,DKI Jakarta,152,Jakarta Pusat,Senen,Senen
+1190,DKI Jakarta,152,Jakarta Pusat,Tanah Abang,Bendungan Hilir
+1191,DKI Jakarta,152,Jakarta Pusat,Tanah Abang,Gelora
+1192,DKI Jakarta,152,Jakarta Pusat,Tanah Abang,Kampung Bali
+1193,DKI Jakarta,152,Jakarta Pusat,Tanah Abang,Karet Tengsin
+1194,DKI Jakarta,152,Jakarta Pusat,Tanah Abang,Kebon Kacang
+1195,DKI Jakarta,152,Jakarta Pusat,Tanah Abang,Kebon Melati
+1196,DKI Jakarta,152,Jakarta Pusat,Tanah Abang,Petamburan
+1197,DKI Jakarta,155,Jakarta Utara,Cilincing,Cilincing
+1198,DKI Jakarta,155,Jakarta Utara,Cilincing,Kalibaru
+1199,DKI Jakarta,155,Jakarta Utara,Cilincing,Marunda
+1200,DKI Jakarta,155,Jakarta Utara,Cilincing,Rorotan
+1201,DKI Jakarta,155,Jakarta Utara,Cilincing,Semper Barat
+1202,DKI Jakarta,155,Jakarta Utara,Cilincing,Semper Timur
+1203,DKI Jakarta,155,Jakarta Utara,Cilincing,Sukapura
+1204,DKI Jakarta,155,Jakarta Utara,Kelapa Gading,Kelapa Gading Barat
+1205,DKI Jakarta,155,Jakarta Utara,Kelapa Gading,Kelapa Gading Timur
+1206,DKI Jakarta,155,Jakarta Utara,Kelapa Gading,Pegangsaan Dua
+1207,DKI Jakarta,155,Jakarta Utara,Koja,Koja
+1208,DKI Jakarta,155,Jakarta Utara,Koja,Lagoa
+1209,DKI Jakarta,155,Jakarta Utara,Koja,Rawa Badak Selatan
+1210,DKI Jakarta,155,Jakarta Utara,Koja,Rawa Badak Utara
+1211,DKI Jakarta,155,Jakarta Utara,Koja,Tugu Selatan
+1212,DKI Jakarta,155,Jakarta Utara,Koja,Tugu Utara
+1213,DKI Jakarta,155,Jakarta Utara,Pademangan,Ancol
+1214,DKI Jakarta,155,Jakarta Utara,Pademangan,Pademangan Barat
+1215,DKI Jakarta,155,Jakarta Utara,Pademangan,Pademangan Timur
+1216,DKI Jakarta,155,Jakarta Utara,Penjaringan,Kamal Muara
+1217,DKI Jakarta,155,Jakarta Utara,Penjaringan,Kapuk Muara
+1218,DKI Jakarta,155,Jakarta Utara,Penjaringan,Pejagalan
+1219,DKI Jakarta,155,Jakarta Utara,Penjaringan,Penjaringan
+1220,DKI Jakarta,155,Jakarta Utara,Penjaringan,Pluit
+1221,DKI Jakarta,155,Jakarta Utara,Tanjung Priok,Kebon Bawang
+1222,DKI Jakarta,155,Jakarta Utara,Tanjung Priok,Papanggo
+1223,DKI Jakarta,155,Jakarta Utara,Tanjung Priok,Sungai Bambu
+1224,DKI Jakarta,155,Jakarta Utara,Tanjung Priok,Sunter Agung
+1225,DKI Jakarta,155,Jakarta Utara,Tanjung Priok,Sunter Jaya
+1226,DKI Jakarta,155,Jakarta Utara,Tanjung Priok,Tanjung Priok
+1227,DKI Jakarta,155,Jakarta Utara,Tanjung Priok,Warakas
+1228,DKI Jakarta,154,Jakarta Timur,Cakung,Cakung Barat
+1229,DKI Jakarta,154,Jakarta Timur,Cakung,Cakung Timur
+1230,DKI Jakarta,154,Jakarta Timur,Cakung,Jatinegara
+1231,DKI Jakarta,154,Jakarta Timur,Cakung,Penggilingan
+1232,DKI Jakarta,154,Jakarta Timur,Cakung,Pulo Gebang
+1233,DKI Jakarta,154,Jakarta Timur,Cakung,Rawa Terate
+1234,DKI Jakarta,154,Jakarta Timur,Cakung,Ujung Menteng
+1235,Jawa Barat,115,Kota Depok,Cipayung,Bambu Apus
+1236,Jawa Barat,115,Kota Depok,Cipayung,Ceger
+1237,Jawa Barat,115,Kota Depok,Cipayung,Cilangkap
+1238,Jawa Barat,115,Kota Depok,Cipayung,Cipayung
+1239,Jawa Barat,115,Kota Depok,Cipayung,Lubang Buaya
+1240,Jawa Barat,115,Kota Depok,Cipayung,Munjul
+1241,Jawa Barat,115,Kota Depok,Cipayung,Pondok Ranggon
+1242,Jawa Barat,115,Kota Depok,Cipayung,Setu
+1243,DKI Jakarta,154,Jakarta Timur,Ciracas,Cibubur
+1244,DKI Jakarta,154,Jakarta Timur,Ciracas,Ciracas
+1245,DKI Jakarta,154,Jakarta Timur,Ciracas,Kelapa Dua Wetan
+1246,DKI Jakarta,154,Jakarta Timur,Ciracas,Rambutan
+1247,DKI Jakarta,154,Jakarta Timur,Ciracas,Susukan
+1248,DKI Jakarta,154,Jakarta Timur,Duren Sawit,Duren Sawit
+1249,DKI Jakarta,154,Jakarta Timur,Duren Sawit,Klender
+1250,DKI Jakarta,154,Jakarta Timur,Duren Sawit,Malaka Jaya
+1251,DKI Jakarta,154,Jakarta Timur,Duren Sawit,Malaka Sari
+1252,DKI Jakarta,154,Jakarta Timur,Duren Sawit,Pondok Bambu
+1253,DKI Jakarta,154,Jakarta Timur,Duren Sawit,Pondok Kelapa
+1254,DKI Jakarta,154,Jakarta Timur,Duren Sawit,Pondok Kopi
+1255,DKI Jakarta,154,Jakarta Timur,Jatinegara,Bali Mester
+1256,DKI Jakarta,154,Jakarta Timur,Jatinegara,Bidara Cina
+1257,DKI Jakarta,154,Jakarta Timur,Jatinegara,Cipinang Besar Selatan
+1258,DKI Jakarta,154,Jakarta Timur,Jatinegara,Cipinang Besar Utara
+1259,DKI Jakarta,154,Jakarta Timur,Jatinegara,Cipinang Cempedak
+1260,DKI Jakarta,154,Jakarta Timur,Jatinegara,Cipinang Muara
+1261,DKI Jakarta,154,Jakarta Timur,Jatinegara,Kampung Melayu
+1262,DKI Jakarta,154,Jakarta Timur,Jatinegara,Rawa Bunga
+1263,DKI Jakarta,154,Jakarta Timur,Kramat Jati,Balekambang
+1264,DKI Jakarta,154,Jakarta Timur,Kramat Jati,Batu Ampar
+1265,DKI Jakarta,154,Jakarta Timur,Kramat Jati,Cawang
+1266,DKI Jakarta,154,Jakarta Timur,Kramat Jati,Cililitan
+1267,DKI Jakarta,154,Jakarta Timur,Kramat Jati,Dukuh
+1268,DKI Jakarta,154,Jakarta Timur,Kramat Jati,Kramat Jati
+1269,DKI Jakarta,154,Jakarta Timur,Kramat Jati,Tengah
+1270,DKI Jakarta,154,Jakarta Timur,Makasar,Cipinang Melayu
+1271,DKI Jakarta,154,Jakarta Timur,Makasar,Halim Perdana Kusuma
+1272,DKI Jakarta,154,Jakarta Timur,Makasar,Kebon Pala
+1273,DKI Jakarta,154,Jakarta Timur,Makasar,Makasar
+1274,DKI Jakarta,154,Jakarta Timur,Makasar,Pinang Ranti
+1275,DKI Jakarta,154,Jakarta Timur,Matraman,Kayu Manis
+1276,DKI Jakarta,154,Jakarta Timur,Matraman,Kebon Manggis
+1277,DKI Jakarta,154,Jakarta Timur,Matraman,Pal Meriam
+1278,DKI Jakarta,154,Jakarta Timur,Matraman,Pisangan Baru
+1279,DKI Jakarta,154,Jakarta Timur,Matraman,Utan Kayu Selatan
+1280,DKI Jakarta,154,Jakarta Timur,Matraman,Utan Kayu Utara
+1281,DKI Jakarta,154,Jakarta Timur,Pasar Rebo,Baru
+1282,DKI Jakarta,154,Jakarta Timur,Pasar Rebo,Cijantung
+1283,DKI Jakarta,154,Jakarta Timur,Pasar Rebo,Gedong
+1284,DKI Jakarta,154,Jakarta Timur,Pasar Rebo,Kalisari
+1285,DKI Jakarta,154,Jakarta Timur,Pasar Rebo,Pekayon
+1286,DKI Jakarta,154,Jakarta Timur,Pulo Gadung,Cipinang
+1287,DKI Jakarta,154,Jakarta Timur,Pulo Gadung,Jati
+1288,DKI Jakarta,154,Jakarta Timur,Pulo Gadung,Jatinegara Kaum
+1289,DKI Jakarta,154,Jakarta Timur,Pulo Gadung,Kayu Putih
+1290,DKI Jakarta,154,Jakarta Timur,Pulo Gadung,Pisangan Timur
+1291,DKI Jakarta,154,Jakarta Timur,Pulo Gadung,Pulo Gadung
+1292,DKI Jakarta,154,Jakarta Timur,Pulo Gadung,Rawamangun
+1293,DKI Jakarta,153,Jakarta Selatan,Cilandak,Cilandak Barat
+1294,DKI Jakarta,153,Jakarta Selatan,Cilandak,Cipete Selatan
+1295,DKI Jakarta,153,Jakarta Selatan,Cilandak,Gandaria Selatan
+1296,DKI Jakarta,153,Jakarta Selatan,Cilandak,Lebak Bulus
+1297,DKI Jakarta,153,Jakarta Selatan,Cilandak,Pondok Labu
+1298,DKI Jakarta,153,Jakarta Selatan,Jagakarsa,Ciganjur
+1299,DKI Jakarta,153,Jakarta Selatan,Jagakarsa,Cipedak
+1300,DKI Jakarta,153,Jakarta Selatan,Jagakarsa,Jagakarsa
+1301,DKI Jakarta,153,Jakarta Selatan,Jagakarsa,Lenteng Agung
+1302,DKI Jakarta,153,Jakarta Selatan,Jagakarsa,Srengseng Sawah
+1303,DKI Jakarta,153,Jakarta Selatan,Jagakarsa,Tanjung Barat
+1304,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Cipete Utara
+1305,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Gandaria Utara
+1306,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Gunung
+1307,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Kramat Pela
+1308,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Melawai
+1309,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Petogogan
+1310,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Pulo
+1311,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Rawa Barat
+1312,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Selong
+1313,DKI Jakarta,153,Jakarta Selatan,Kebayoran Baru,Senayan
+1314,DKI Jakarta,153,Jakarta Selatan,Kebayoran Lama,Cipulir
+1315,DKI Jakarta,153,Jakarta Selatan,Kebayoran Lama,Grogol Selatan
+1316,DKI Jakarta,153,Jakarta Selatan,Kebayoran Lama,Grogol Utara
+1317,DKI Jakarta,153,Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Selatan
+1318,DKI Jakarta,153,Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Utara
+1319,DKI Jakarta,153,Jakarta Selatan,Kebayoran Lama,Pondok Pinang
+1320,DKI Jakarta,153,Jakarta Selatan,Mampang Prapatan,Bangka
+1321,DKI Jakarta,153,Jakarta Selatan,Mampang Prapatan,Kuningan Barat
+1322,DKI Jakarta,153,Jakarta Selatan,Mampang Prapatan,Mampang Prapatan
+1323,DKI Jakarta,153,Jakarta Selatan,Mampang Prapatan,Pela Mampang
+1324,DKI Jakarta,153,Jakarta Selatan,Mampang Prapatan,Tegal Parang
+1325,DKI Jakarta,153,Jakarta Selatan,Pancoran,Cikoko
+1326,DKI Jakarta,153,Jakarta Selatan,Pancoran,Duren Tiga
+1327,DKI Jakarta,153,Jakarta Selatan,Pancoran,Kalibata
+1328,DKI Jakarta,153,Jakarta Selatan,Pancoran,Pancoran
+1329,DKI Jakarta,153,Jakarta Selatan,Pancoran,Pengadegan
+1330,DKI Jakarta,153,Jakarta Selatan,Pancoran,Rawajati
+1331,DKI Jakarta,153,Jakarta Selatan,Pasar Minggu,Cilandak Timur
+1332,DKI Jakarta,153,Jakarta Selatan,Pasar Minggu,Jati Padang
+1333,DKI Jakarta,153,Jakarta Selatan,Pasar Minggu,Kebagusan
+1334,DKI Jakarta,153,Jakarta Selatan,Pasar Minggu,Pasar Minggu
+1335,DKI Jakarta,153,Jakarta Selatan,Pasar Minggu,Pejaten Barat
+1336,DKI Jakarta,153,Jakarta Selatan,Pasar Minggu,Pejaten Timur
+1337,DKI Jakarta,153,Jakarta Selatan,Pasar Minggu,Ragunan
+1338,DKI Jakarta,153,Jakarta Selatan,Pesanggrahan,Bintaro
+1339,DKI Jakarta,153,Jakarta Selatan,Pesanggrahan,Pesanggrahan
+1340,DKI Jakarta,153,Jakarta Selatan,Pesanggrahan,Petukangan Selatan
+1341,DKI Jakarta,153,Jakarta Selatan,Pesanggrahan,Petukangan Utara
+1342,DKI Jakarta,153,Jakarta Selatan,Pesanggrahan,Ulujami
+1343,DKI Jakarta,153,Jakarta Selatan,Setiabudi,Guntur
+1344,DKI Jakarta,153,Jakarta Selatan,Setiabudi,Karet Kuningan
+1345,DKI Jakarta,153,Jakarta Selatan,Setiabudi,Karet Semanggi
+1346,DKI Jakarta,153,Jakarta Selatan,Setiabudi,Karet
+1347,DKI Jakarta,153,Jakarta Selatan,Setiabudi,Kuningan Timur
+1348,DKI Jakarta,153,Jakarta Selatan,Setiabudi,Menteng Atas
+1349,DKI Jakarta,153,Jakarta Selatan,Setiabudi,Pasar Manggis
+1350,DKI Jakarta,153,Jakarta Selatan,Setiabudi,Setiabudi
+1351,DKI Jakarta,153,Jakarta Selatan,Tebet,Bukit Duri
+1352,DKI Jakarta,153,Jakarta Selatan,Tebet,Kebon Baru
+1353,DKI Jakarta,153,Jakarta Selatan,Tebet,Manggarai Selatan
+1354,DKI Jakarta,153,Jakarta Selatan,Tebet,Manggarai
+1355,DKI Jakarta,153,Jakarta Selatan,Tebet,Menteng Dalam
+1356,DKI Jakarta,153,Jakarta Selatan,Tebet,Tebet Barat
+1357,DKI Jakarta,153,Jakarta Selatan,Tebet,Tebet Timur
+1358,DKI Jakarta,151,Jakarta Barat,Cengkareng,Cengkareng Barat
+1359,DKI Jakarta,151,Jakarta Barat,Cengkareng,Cengkareng Timur
+1360,DKI Jakarta,151,Jakarta Barat,Cengkareng,Duri Kosambi
+1361,DKI Jakarta,151,Jakarta Barat,Cengkareng,Kapuk
+1362,DKI Jakarta,151,Jakarta Barat,Cengkareng,Kedaung Kali Angke
+1363,DKI Jakarta,151,Jakarta Barat,Cengkareng,Rawa Buaya
+1364,DKI Jakarta,151,Jakarta Barat,Grogol Petamburan,Grogol
+1365,DKI Jakarta,151,Jakarta Barat,Grogol Petamburan,Jelambar Baru
+1366,DKI Jakarta,151,Jakarta Barat,Grogol Petamburan,Jelambar
+1367,DKI Jakarta,151,Jakarta Barat,Grogol Petamburan,Tanjung Duren Selatan
+1368,DKI Jakarta,151,Jakarta Barat,Grogol Petamburan,Tanjung Duren Utara
+1369,DKI Jakarta,151,Jakarta Barat,Grogol Petamburan,Tomang
+1370,DKI Jakarta,151,Jakarta Barat,Grogol Petamburan,Wijaya Kusuma
+1371,DKI Jakarta,151,Jakarta Barat,Taman Sari,Keagungan
+1372,DKI Jakarta,151,Jakarta Barat,Taman Sari,Krukut
+1373,DKI Jakarta,151,Jakarta Barat,Taman Sari,Mangga Besar
+1374,DKI Jakarta,151,Jakarta Barat,Taman Sari,Maphar
+1375,DKI Jakarta,151,Jakarta Barat,Taman Sari,Pinangsia
+1376,DKI Jakarta,151,Jakarta Barat,Taman Sari,Taman Sari
+1377,DKI Jakarta,151,Jakarta Barat,Taman Sari,Tangki
+1378,DKI Jakarta,151,Jakarta Barat,Tambora,Angke
+1379,DKI Jakarta,151,Jakarta Barat,Tambora,Duri Selatan
+1380,DKI Jakarta,151,Jakarta Barat,Tambora,Duri Utara
+1381,DKI Jakarta,151,Jakarta Barat,Tambora,Jembatan Besi
+1382,DKI Jakarta,151,Jakarta Barat,Tambora,Jembatan Lima
+1383,DKI Jakarta,151,Jakarta Barat,Tambora,Kali Anyar
+1384,DKI Jakarta,151,Jakarta Barat,Tambora,Krendang
+1385,DKI Jakarta,151,Jakarta Barat,Tambora,Pekojan
+1386,DKI Jakarta,151,Jakarta Barat,Tambora,Roa Malaka
+1387,DKI Jakarta,151,Jakarta Barat,Tambora,Tambora
+1388,DKI Jakarta,151,Jakarta Barat,Tambora,Tanah Sereal
+1389,DKI Jakarta,151,Jakarta Barat,Kebon Jeruk,Duri Kepa
+1390,DKI Jakarta,151,Jakarta Barat,Kebon Jeruk,Kebon Jeruk
+1391,DKI Jakarta,151,Jakarta Barat,Kebon Jeruk,Kedoya Selatan
+1392,DKI Jakarta,151,Jakarta Barat,Kebon Jeruk,Kedoya Utara
+1393,DKI Jakarta,151,Jakarta Barat,Kebon Jeruk,Kelapa Dua
+1394,DKI Jakarta,151,Jakarta Barat,Kebon Jeruk,Sukabumi Selatan
+1395,DKI Jakarta,151,Jakarta Barat,Kebon Jeruk,Sukabumi Utara
+1396,DKI Jakarta,151,Jakarta Barat,Kalideres,Kalideres
+1397,DKI Jakarta,151,Jakarta Barat,Kalideres,Kamal
+1398,DKI Jakarta,151,Jakarta Barat,Kalideres,Pegadungan
+1399,DKI Jakarta,151,Jakarta Barat,Kalideres,Semanan
+1400,DKI Jakarta,151,Jakarta Barat,Kalideres,Tegal Alur
+1401,DKI Jakarta,151,Jakarta Barat,Palmerah,Jatipulo
+1402,DKI Jakarta,151,Jakarta Barat,Palmerah,Kemanggisan
+1403,DKI Jakarta,151,Jakarta Barat,Palmerah,Kota Bambu Selatan
+1404,DKI Jakarta,151,Jakarta Barat,Palmerah,Kota Bambu Utara
+1405,DKI Jakarta,151,Jakarta Barat,Palmerah,Palmerah
+1406,DKI Jakarta,151,Jakarta Barat,Palmerah,Slipi
+1407,DKI Jakarta,151,Jakarta Barat,Kembangan,Joglo
+1408,DKI Jakarta,151,Jakarta Barat,Kembangan,Kembangan Selatan
+1409,DKI Jakarta,151,Jakarta Barat,Kembangan,Kembangan Utara
+1410,DKI Jakarta,151,Jakarta Barat,Kembangan,Meruya Selatan
+1411,DKI Jakarta,151,Jakarta Barat,Kembangan,Meruya Utara
+1412,DKI Jakarta,151,Jakarta Barat,Kembangan,Srengseng
+1413,DKI Jakarta,189,Kepulauan Seribu,Kepulauan Seribu Utara,Pulau Harapan
+1414,DKI Jakarta,189,Kepulauan Seribu,Kepulauan Seribu Utara,Pulau Kelapa
+1415,DKI Jakarta,189,Kepulauan Seribu,Kepulauan Seribu Utara,Pulau Panggang
+1416,DKI Jakarta,189,Kepulauan Seribu,Kepulauan Seribu Selatan,Pulau Pari
+1417,DKI Jakarta,189,Kepulauan Seribu,Kepulauan Seribu Selatan,Pulau Tidung
+1418,DKI Jakarta,189,Kepulauan Seribu,Kepulauan Seribu Selatan,Pulau Untung Jawa
+1419,Banten,457,Kota Tangerang Selatan,Ciputat,Cipayung
+1420,Banten,457,Kota Tangerang Selatan,Ciputat,Ciputat
+1421,Banten,457,Kota Tangerang Selatan,Ciputat,Jombang
+1422,Banten,457,Kota Tangerang Selatan,Ciputat,Sawah
+1423,Banten,457,Kota Tangerang Selatan,Ciputat,Sawah Baru
+1424,Banten,457,Kota Tangerang Selatan,Ciputat,Serua
+1425,Banten,457,Kota Tangerang Selatan,Ciputat,Serua Indah
+1426,Banten,457,Kota Tangerang Selatan,Ciputat Timur,Cempaka Putih
+1427,Banten,457,Kota Tangerang Selatan,Ciputat Timur,Cireundeu
+1428,Banten,457,Kota Tangerang Selatan,Ciputat Timur,Pisangan
+1429,Banten,457,Kota Tangerang Selatan,Ciputat Timur,Pondok Ranji
+1430,Banten,457,Kota Tangerang Selatan,Ciputat Timur,Rempoa
+1431,Banten,457,Kota Tangerang Selatan,Ciputat Timur,Rengas
+1432,Banten,457,Kota Tangerang Selatan,Pamulang,Bambu Apus
+1433,Banten,457,Kota Tangerang Selatan,Pamulang,Benda Baru
+1434,Banten,457,Kota Tangerang Selatan,Pamulang,Kedaung
+1435,Banten,457,Kota Tangerang Selatan,Pamulang,Pamulang Barat
+1436,Banten,457,Kota Tangerang Selatan,Pamulang,Pamulang Timur
+1437,Banten,457,Kota Tangerang Selatan,Pamulang,Pondok Benda
+1438,Banten,457,Kota Tangerang Selatan,Pamulang,Pondok Cabe Ilir
+1439,Banten,457,Kota Tangerang Selatan,Pamulang,Pondok Cabe Udik
+1440,Banten,457,Kota Tangerang Selatan,Pondok Aren,Jurangmangu Barat
+1441,Banten,457,Kota Tangerang Selatan,Pondok Aren,Jurangmangu Timur
+1442,Banten,457,Kota Tangerang Selatan,Pondok Aren,Pondok Kacang Barat
+1443,Banten,457,Kota Tangerang Selatan,Pondok Aren,Pondok Kacang Timur
+1444,Banten,457,Kota Tangerang Selatan,Pondok Aren,Perigi Lama
+1445,Banten,457,Kota Tangerang Selatan,Pondok Aren,Perigi Baru
+1446,Banten,457,Kota Tangerang Selatan,Pondok Aren,Pondok Aren
+1447,Banten,457,Kota Tangerang Selatan,Pondok Aren,Pondok Karya
+1448,Banten,457,Kota Tangerang Selatan,Pondok Aren,Pondok Jaya
+1449,Banten,457,Kota Tangerang Selatan,Pondok Aren,Pondok Betung
+1450,Banten,457,Kota Tangerang Selatan,Pondok Aren,Pondok Pucung
+1451,Banten,457,Kota Tangerang Selatan,Serpong,Buaran
+1452,Banten,457,Kota Tangerang Selatan,Serpong,Ciater
+1453,Banten,457,Kota Tangerang Selatan,Serpong,Cilenggang
+1454,Banten,457,Kota Tangerang Selatan,Serpong,Lengkong Gudang
+1455,Banten,457,Kota Tangerang Selatan,Serpong,Lengkong Gudang Timur
+1456,Banten,457,Kota Tangerang Selatan,Serpong,Lengkong Wetan
+1457,Banten,457,Kota Tangerang Selatan,Serpong,Rawa Buntu
+1458,Banten,457,Kota Tangerang Selatan,Serpong,Rawa Mekar Jaya
+1459,Banten,457,Kota Tangerang Selatan,Serpong,Serpong
+1460,Banten,457,Kota Tangerang Selatan,Serpong Utara,Jelupang
+1461,Banten,457,Kota Tangerang Selatan,Serpong Utara,Lengkong Karya
+1462,Banten,457,Kota Tangerang Selatan,Serpong Utara,Pakualam
+1463,Banten,457,Kota Tangerang Selatan,Serpong Utara,Pakulonan
+1464,Banten,457,Kota Tangerang Selatan,Serpong Utara,Paku Jaya
+1465,Banten,457,Kota Tangerang Selatan,Serpong Utara,Pondok Jagung
+1466,Banten,457,Kota Tangerang Selatan,Serpong Utara,Pondok Jagung Timur
+1467,Banten,457,Kota Tangerang Selatan,Setu,Babakan
+1468,Banten,457,Kota Tangerang Selatan,Setu,Bakti Jaya
+1469,Banten,457,Kota Tangerang Selatan,Setu,Kademangan
+1470,Banten,457,Kota Tangerang Selatan,Setu,Keranggan
+1471,Banten,457,Kota Tangerang Selatan,Setu,Muncul
+1472,Banten,457,Kota Tangerang Selatan,Setu,Setu
+1473,Banten,456,Kota Tangerang,Batuceper,Batuceper
+1474,Banten,456,Kota Tangerang,Batuceper,Batujaya
+1475,Banten,456,Kota Tangerang,Batuceper,Batusari
+1476,Banten,456,Kota Tangerang,Batuceper,Kebon Besar
+1477,Banten,456,Kota Tangerang,Batuceper,Poris Gaga
+1478,Banten,456,Kota Tangerang,Batuceper,Poris Gaga Baru
+1479,Banten,456,Kota Tangerang,Batuceper,Poris Jaya
+1480,Banten,456,Kota Tangerang,Benda,Belendung
+1481,Banten,456,Kota Tangerang,Benda,Benda
+1482,Banten,456,Kota Tangerang,Benda,Jurumudi
+1483,Banten,456,Kota Tangerang,Benda,Jurumudi Baru
+1484,Banten,456,Kota Tangerang,Benda,Pajang
+1485,Banten,456,Kota Tangerang,Cibodas,Cibodas
+1486,Banten,456,Kota Tangerang,Cibodas,Cibodasari
+1487,Banten,456,Kota Tangerang,Cibodas,Cibodas Baru
+1488,Banten,456,Kota Tangerang,Cibodas,Jatiuwung
+1489,Banten,456,Kota Tangerang,Cibodas,Panunggangan Barat
+1490,Banten,456,Kota Tangerang,Cibodas,Uwung Jaya
+1491,Banten,456,Kota Tangerang,Ciledug,Paninggilan
+1492,Banten,456,Kota Tangerang,Ciledug,Paninggilan Utara
+1493,Banten,456,Kota Tangerang,Ciledug,Parung Serab
+1494,Banten,456,Kota Tangerang,Ciledug,Sudimara Barat
+1495,Banten,456,Kota Tangerang,Ciledug,Sudimara Jaya
+1496,Banten,456,Kota Tangerang,Ciledug,Sudimara Selatan
+1497,Banten,456,Kota Tangerang,Ciledug,Sudimara Timur
+1498,Banten,456,Kota Tangerang,Ciledug,Tajur
+1499,Banten,456,Kota Tangerang,Cipondoh,Cipondoh
+1500,Banten,456,Kota Tangerang,Cipondoh,Cipondoh Indah
+1501,Banten,456,Kota Tangerang,Cipondoh,Cipondoh Makmur
+1502,Banten,456,Kota Tangerang,Cipondoh,Gondrong
+1503,Banten,456,Kota Tangerang,Cipondoh,Kenanga
+1504,Banten,456,Kota Tangerang,Cipondoh,Ketapang
+1505,Banten,456,Kota Tangerang,Cipondoh,Petir
+1506,Banten,456,Kota Tangerang,Cipondoh,Poris Plawad
+1507,Banten,456,Kota Tangerang,Cipondoh,Poris Plawad Indah
+1508,Banten,456,Kota Tangerang,Cipondoh,Poris Plawad Utara
+1509,Banten,456,Kota Tangerang,Jatiuwung,Alam Jaya
+1510,Banten,456,Kota Tangerang,Jatiuwung,Gandasari
+1511,Banten,456,Kota Tangerang,Jatiuwung,Jatake
+1512,Banten,456,Kota Tangerang,Jatiuwung,Keroncong
+1513,Banten,456,Kota Tangerang,Jatiuwung,Manis Jaya
+1514,Banten,456,Kota Tangerang,Jatiuwung,Pasir Jaya
+1515,Banten,456,Kota Tangerang,Karangtengah,Karang Mulya
+1516,Banten,456,Kota Tangerang,Karangtengah,Karangtengah
+1517,Banten,456,Kota Tangerang,Karangtengah,Karang Timur
+1518,Banten,456,Kota Tangerang,Karangtengah,Parung Jaya
+1519,Banten,456,Kota Tangerang,Karangtengah,Pedurenan
+1520,Banten,456,Kota Tangerang,Karangtengah,Pondok Bahar
+1521,Banten,456,Kota Tangerang,Karangtengah,Pondok Pucung
+1522,Banten,456,Kota Tangerang,Karawaci,Bojong Jaya
+1523,Banten,456,Kota Tangerang,Karawaci,Bugel
+1524,Banten,456,Kota Tangerang,Karawaci,Cimone
+1525,Banten,456,Kota Tangerang,Karawaci,Cimone Jaya
+1526,Banten,456,Kota Tangerang,Karawaci,Gerendeng
+1527,Banten,456,Kota Tangerang,Karawaci,Karawaci
+1528,Banten,456,Kota Tangerang,Karawaci,Karawaci Baru
+1529,Banten,456,Kota Tangerang,Karawaci,Koang Jaya
+1530,Banten,456,Kota Tangerang,Karawaci,Margasari
+1531,Banten,456,Kota Tangerang,Karawaci,Nambo Jaya
+1532,Banten,456,Kota Tangerang,Karawaci,Nusa Jaya
+1533,Banten,456,Kota Tangerang,Karawaci,Pabuaran
+1534,Banten,456,Kota Tangerang,Karawaci,Pabuaran Tumpeng
+1535,Banten,456,Kota Tangerang,Karawaci,Pasar Baru
+1536,Banten,456,Kota Tangerang,Karawaci,Sukajadi
+1537,Banten,456,Kota Tangerang,Karawaci,Sumur Pacing
+1538,Banten,456,Kota Tangerang,Larangan,Cipadu
+1539,Banten,456,Kota Tangerang,Larangan,Cipadu Jaya
+1540,Banten,456,Kota Tangerang,Larangan,Gaga
+1541,Banten,456,Kota Tangerang,Larangan,Kreo
+1542,Banten,456,Kota Tangerang,Larangan,Kreo Selatan
+1543,Banten,456,Kota Tangerang,Larangan,Larangan Indah
+1544,Banten,456,Kota Tangerang,Larangan,Larangan Selatan
+1545,Banten,456,Kota Tangerang,Larangan,Larangan Utara
+1546,Banten,456,Kota Tangerang,Neglasari,Karang Anyar
+1547,Banten,456,Kota Tangerang,Neglasari,Karangsari
+1548,Banten,456,Kota Tangerang,Neglasari,Kedaung Baru
+1549,Banten,456,Kota Tangerang,Neglasari,Kedaung Wetan
+1550,Banten,456,Kota Tangerang,Neglasari,Mekarsari
+1551,Banten,456,Kota Tangerang,Neglasari,Neglasari
+1552,Banten,456,Kota Tangerang,Neglasari,Selapajang Jaya
+1553,Banten,456,Kota Tangerang,Periuk,Gebang Raya
+1554,Banten,456,Kota Tangerang,Periuk,Gembor
+1555,Banten,456,Kota Tangerang,Periuk,Periuk
+1556,Banten,456,Kota Tangerang,Periuk,Periuk Jaya
+1557,Banten,456,Kota Tangerang,Periuk,Sangiang Jaya
+1558,Banten,456,Kota Tangerang,Pinang,Cipete
+1559,Banten,456,Kota Tangerang,Pinang,Kunciran
+1560,Banten,456,Kota Tangerang,Pinang,Kunciran Indah
+1561,Banten,456,Kota Tangerang,Pinang,Kunciran Jaya
+1562,Banten,456,Kota Tangerang,Pinang,Nerogtog
+1563,Banten,456,Kota Tangerang,Pinang,Pakojan
+1564,Banten,456,Kota Tangerang,Pinang,Panunggangan
+1565,Banten,456,Kota Tangerang,Pinang,Panunggangan Timur
+1566,Banten,456,Kota Tangerang,Pinang,Panunggangan Utara
+1567,Banten,456,Kota Tangerang,Pinang,Pinang
+1568,Banten,456,Kota Tangerang,Pinang,Sudimara Pinang
+1569,Banten,456,Kota Tangerang,Tangerang,Babakan
+1570,Banten,456,Kota Tangerang,Tangerang,Buaran Indah
+1571,Banten,456,Kota Tangerang,Tangerang,Cikokol
+1572,Banten,456,Kota Tangerang,Tangerang,Kelapa Indah
+1573,Banten,456,Kota Tangerang,Tangerang,Suka Asih
+1574,Banten,456,Kota Tangerang,Tangerang,Sukarasa
+1575,Banten,456,Kota Tangerang,Tangerang,Sukasari
+1576,Banten,456,Kota Tangerang,Tangerang,Tanah Tinggi
+1577,Banten,455,Kabupaten Tangerang,Balaraja,Cangkudu
+1578,Banten,455,Kabupaten Tangerang,Balaraja,Gembong
+1579,Banten,455,Kabupaten Tangerang,Balaraja,Saga
+1580,Banten,455,Kabupaten Tangerang,Balaraja,Sentul
+1581,Banten,455,Kabupaten Tangerang,Balaraja,Sentul Jaya
+1582,Banten,455,Kabupaten Tangerang,Balaraja,Sukamurni
+1583,Banten,455,Kabupaten Tangerang,Balaraja,Talagasari
+1584,Banten,455,Kabupaten Tangerang,Balaraja,Tobat
+1585,Banten,455,Kabupaten Tangerang,Balaraja,Balaraja
+1586,Banten,455,Kabupaten Tangerang,Cikupa,Bitung Jaya
+1587,Banten,455,Kabupaten Tangerang,Cikupa,Bojong
+1588,Banten,455,Kabupaten Tangerang,Cikupa,Budi Mulya
+1589,Banten,455,Kabupaten Tangerang,Cikupa,Cibadak
+1590,Banten,455,Kabupaten Tangerang,Cikupa,Cikupa
+1591,Banten,455,Kabupaten Tangerang,Cikupa,Dukuh
+1592,Banten,455,Kabupaten Tangerang,Cikupa,Pasir Gadung
+1593,Banten,455,Kabupaten Tangerang,Cikupa,Pasir Jaya
+1594,Banten,455,Kabupaten Tangerang,Cikupa,Sukadamai
+1595,Banten,455,Kabupaten Tangerang,Cikupa,Sukanagara
+1596,Banten,455,Kabupaten Tangerang,Cikupa,Talaga
+1597,Banten,455,Kabupaten Tangerang,Cikupa,Talagasari
+1598,Banten,455,Kabupaten Tangerang,Cikupa,Bunder
+1599,Banten,455,Kabupaten Tangerang,Cikupa,Sukamulya
+1600,Banten,455,Kabupaten Tangerang,Cisauk,Cibogo
+1601,Banten,455,Kabupaten Tangerang,Cisauk,Dangdang
+1602,Banten,455,Kabupaten Tangerang,Cisauk,Mekar Wangi
+1603,Banten,455,Kabupaten Tangerang,Cisauk,Sampora
+1604,Banten,455,Kabupaten Tangerang,Cisauk,Suradita
+1605,Banten,455,Kabupaten Tangerang,Cisauk,Cisauk
+1606,Banten,455,Kabupaten Tangerang,Cisoka,Bojong Loa
+1607,Banten,455,Kabupaten Tangerang,Cisoka,Carenang
+1608,Banten,455,Kabupaten Tangerang,Cisoka,Caringin
+1609,Banten,455,Kabupaten Tangerang,Cisoka,Cempaka
+1610,Banten,455,Kabupaten Tangerang,Cisoka,Cibugel
+1611,Banten,455,Kabupaten Tangerang,Cisoka,Cisoka
+1612,Banten,455,Kabupaten Tangerang,Cisoka,Jeungjing
+1613,Banten,455,Kabupaten Tangerang,Cisoka,Karangharja
+1614,Banten,455,Kabupaten Tangerang,Cisoka,Selapajang
+1615,Banten,455,Kabupaten Tangerang,Cisoka,Sukatani
+1616,Banten,455,Kabupaten Tangerang,Curug,Cukanggalih
+1617,Banten,455,Kabupaten Tangerang,Curug,Curug Wetan
+1618,Banten,455,Kabupaten Tangerang,Curug,Kadu
+1619,Banten,455,Kabupaten Tangerang,Curug,Kadu Jaya
+1620,Banten,455,Kabupaten Tangerang,Curug,Binong
+1621,Banten,455,Kabupaten Tangerang,Curug,Curug Kulon
+1622,Banten,455,Kabupaten Tangerang,Curug,Sukabakti
+1623,Banten,455,Kabupaten Tangerang,Gunung Kaler,Cibetok
+1624,Banten,455,Kabupaten Tangerang,Gunung Kaler,Cipaeh
+1625,Banten,455,Kabupaten Tangerang,Gunung Kaler,Gunung Kaler
+1626,Banten,455,Kabupaten Tangerang,Gunung Kaler,Kandawati
+1627,Banten,455,Kabupaten Tangerang,Gunung Kaler,Kedung
+1628,Banten,455,Kabupaten Tangerang,Gunung Kaler,Onyam
+1629,Banten,455,Kabupaten Tangerang,Gunung Kaler,Rancagede
+1630,Banten,455,Kabupaten Tangerang,Gunung Kaler,Sidoko
+1631,Banten,455,Kabupaten Tangerang,Gunung Kaler,Tamiang
+1632,Banten,455,Kabupaten Tangerang,Jambe,Ancol Pasir
+1633,Banten,455,Kabupaten Tangerang,Jambe,Daru
+1634,Banten,455,Kabupaten Tangerang,Jambe,Jambe
+1635,Banten,455,Kabupaten Tangerang,Jambe,Kutruk
+1636,Banten,455,Kabupaten Tangerang,Jambe,Mekarsari
+1637,Banten,455,Kabupaten Tangerang,Jambe,Pasir Barat
+1638,Banten,455,Kabupaten Tangerang,Jambe,Ranca Buaya
+1639,Banten,455,Kabupaten Tangerang,Jambe,Sukamanah
+1640,Banten,455,Kabupaten Tangerang,Jambe,Taban
+1641,Banten,455,Kabupaten Tangerang,Jambe,Tipar Raya
+1642,Banten,455,Kabupaten Tangerang,Jayanti,Cikande
+1643,Banten,455,Kabupaten Tangerang,Jayanti,Dangdeur
+1644,Banten,455,Kabupaten Tangerang,Jayanti,Jayanti
+1645,Banten,455,Kabupaten Tangerang,Jayanti,Pabuaran
+1646,Banten,455,Kabupaten Tangerang,Jayanti,Pangkat
+1647,Banten,455,Kabupaten Tangerang,Jayanti,Pasir Gintung
+1648,Banten,455,Kabupaten Tangerang,Jayanti,Pasir Muncang
+1649,Banten,455,Kabupaten Tangerang,Jayanti,Sumurbandung
+1650,Banten,455,Kabupaten Tangerang,Kelapa Dua,Curug Sangereng
+1651,Banten,455,Kabupaten Tangerang,Kelapa Dua,Bencongan
+1652,Banten,455,Kabupaten Tangerang,Kelapa Dua,Bencongan Indah
+1653,Banten,455,Kabupaten Tangerang,Kelapa Dua,Bojong Nangka
+1654,Banten,455,Kabupaten Tangerang,Kelapa Dua,Kelapa Dua
+1655,Banten,455,Kabupaten Tangerang,Kelapa Dua,Pakulonan Barat
+1656,Banten,455,Kabupaten Tangerang,Kemiri,Karang Anyar
+1657,Banten,455,Kabupaten Tangerang,Kemiri,Kemiri
+1658,Banten,455,Kabupaten Tangerang,Kemiri,Klebet
+1659,Banten,455,Kabupaten Tangerang,Kemiri,Legok Suka Maju
+1660,Banten,455,Kabupaten Tangerang,Kemiri,Lontar
+1661,Banten,455,Kabupaten Tangerang,Kemiri,Patramanggala
+1662,Banten,455,Kabupaten Tangerang,Kemiri,Ranca Labuh
+1663,Banten,455,Kabupaten Tangerang,Kresek,Jengkol
+1664,Banten,455,Kabupaten Tangerang,Kresek,Kemuning
+1665,Banten,455,Kabupaten Tangerang,Kresek,Koper
+1666,Banten,455,Kabupaten Tangerang,Kresek,Kresek
+1667,Banten,455,Kabupaten Tangerang,Kresek,Pasir Ampo
+1668,Banten,455,Kabupaten Tangerang,Kresek,Patrasana
+1669,Banten,455,Kabupaten Tangerang,Kresek,Rancailat
+1670,Banten,455,Kabupaten Tangerang,Kresek,Renged
+1671,Banten,455,Kabupaten Tangerang,Kresek,Talok
+1672,Banten,455,Kabupaten Tangerang,Kronjo,Bakung
+1673,Banten,455,Kabupaten Tangerang,Kronjo,Blukbuk
+1674,Banten,455,Kabupaten Tangerang,Kronjo,Cirumpak
+1675,Banten,455,Kabupaten Tangerang,Kronjo,Kronjo
+1676,Banten,455,Kabupaten Tangerang,Kronjo,Muncung
+1677,Banten,455,Kabupaten Tangerang,Kronjo,Pagedangan Ilir
+1678,Banten,455,Kabupaten Tangerang,Kronjo,Pagedangan Udik
+1679,Banten,455,Kabupaten Tangerang,Kronjo,Pagenjahan
+1680,Banten,455,Kabupaten Tangerang,Kronjo,Pasilian
+1681,Banten,455,Kabupaten Tangerang,Kronjo,Pasir
+1682,Banten,455,Kabupaten Tangerang,Kosambi,Belimbing
+1683,Banten,455,Kabupaten Tangerang,Kosambi,Cengklong
+1684,Banten,455,Kabupaten Tangerang,Kosambi,Jati Mulya
+1685,Banten,455,Kabupaten Tangerang,Kosambi,Kosambi Timur
+1686,Banten,455,Kabupaten Tangerang,Kosambi,Rawa Burung
+1687,Banten,455,Kabupaten Tangerang,Kosambi,Rawa Rengas
+1688,Banten,455,Kabupaten Tangerang,Kosambi,Salembaran Jati
+1689,Banten,455,Kabupaten Tangerang,Kosambi,Dadap
+1690,Banten,455,Kabupaten Tangerang,Kosambi,Kosambi Barat
+1691,Banten,455,Kabupaten Tangerang,Kosambi,Salembaran Jaya
+1692,Banten,455,Kabupaten Tangerang,Legok,Babat
+1693,Banten,455,Kabupaten Tangerang,Legok,Bojongkamal
+1694,Banten,455,Kabupaten Tangerang,Legok,Caringin
+1695,Banten,455,Kabupaten Tangerang,Legok,Ciangir
+1696,Banten,455,Kabupaten Tangerang,Legok,Cirarab
+1697,Banten,455,Kabupaten Tangerang,Legok,Kemuning
+1698,Banten,455,Kabupaten Tangerang,Legok,Legok
+1699,Banten,455,Kabupaten Tangerang,Legok,Palasari
+1700,Banten,455,Kabupaten Tangerang,Legok,Rancagong
+1701,Banten,455,Kabupaten Tangerang,Legok,Serdang Wetan
+1702,Banten,455,Kabupaten Tangerang,Legok,Babakan
+1703,Banten,455,Kabupaten Tangerang,Mauk,Banyu Asih
+1704,Banten,455,Kabupaten Tangerang,Mauk,Gunung Sari
+1705,Banten,455,Kabupaten Tangerang,Mauk,Jatiwaringin
+1706,Banten,455,Kabupaten Tangerang,Mauk,Kedung Dalem
+1707,Banten,455,Kabupaten Tangerang,Mauk,Ketapang
+1708,Banten,455,Kabupaten Tangerang,Mauk,Marga Mulya
+1709,Banten,455,Kabupaten Tangerang,Mauk,Mauk Barat
+1710,Banten,455,Kabupaten Tangerang,Mauk,Sasak
+1711,Banten,455,Kabupaten Tangerang,Mauk,Tanjung Anom
+1712,Banten,455,Kabupaten Tangerang,Mauk,Tegal Kunir Kidul
+1713,Banten,455,Kabupaten Tangerang,Mauk,Tegal Kunir Lor
+1714,Banten,455,Kabupaten Tangerang,Mauk,Mauk Timur
+1715,Banten,455,Kabupaten Tangerang,Mekarbaru,Cijeruk
+1716,Banten,455,Kabupaten Tangerang,Mekarbaru,Gandaria
+1717,Banten,455,Kabupaten Tangerang,Mekarbaru,Jenggot
+1718,Banten,455,Kabupaten Tangerang,Mekarbaru,Kedaung
+1719,Banten,455,Kabupaten Tangerang,Mekarbaru,Klutuk
+1720,Banten,455,Kabupaten Tangerang,Mekarbaru,Kosambi Dalam
+1721,Banten,455,Kabupaten Tangerang,Mekarbaru,Mekarbaru
+1722,Banten,455,Kabupaten Tangerang,Mekarbaru,Waliwis
+1723,Banten,455,Kabupaten Tangerang,Pagedangan,Cicalengka
+1724,Banten,455,Kabupaten Tangerang,Pagedangan,Cihuni
+1725,Banten,455,Kabupaten Tangerang,Pagedangan,Cijantra
+1726,Banten,455,Kabupaten Tangerang,Pagedangan,Jatake
+1727,Banten,455,Kabupaten Tangerang,Pagedangan,Kadu Sirung
+1728,Banten,455,Kabupaten Tangerang,Pagedangan,Karang Tengah
+1729,Banten,455,Kabupaten Tangerang,Pagedangan,Lengkong Kulon
+1730,Banten,455,Kabupaten Tangerang,Pagedangan,Malang Nengah
+1731,Banten,455,Kabupaten Tangerang,Pagedangan,Pagedangan
+1732,Banten,455,Kabupaten Tangerang,Pagedangan,Situ Gadung
+1733,Banten,455,Kabupaten Tangerang,Pagedangan,Medang
+1734,Banten,455,Kabupaten Tangerang,Pakuhaji,Buaran Bambu
+1735,Banten,455,Kabupaten Tangerang,Pakuhaji,Buaran Mangga
+1736,Banten,455,Kabupaten Tangerang,Pakuhaji,Bunisari
+1737,Banten,455,Kabupaten Tangerang,Pakuhaji,Gaga
+1738,Banten,455,Kabupaten Tangerang,Pakuhaji,Kalibaru
+1739,Banten,455,Kabupaten Tangerang,Pakuhaji,Kiara Payung
+1740,Banten,455,Kabupaten Tangerang,Pakuhaji,Kohod
+1741,Banten,455,Kabupaten Tangerang,Pakuhaji,Kramat
+1742,Banten,455,Kabupaten Tangerang,Pakuhaji,Laksana
+1743,Banten,455,Kabupaten Tangerang,Pakuhaji,Paku Alam
+1744,Banten,455,Kabupaten Tangerang,Pakuhaji,Rawa Boni
+1745,Banten,455,Kabupaten Tangerang,Pakuhaji,Sukawali
+1746,Banten,455,Kabupaten Tangerang,Pakuhaji,Surya Bahari
+1747,Banten,455,Kabupaten Tangerang,Pakuhaji,Pakuhaji
+1748,Banten,455,Kabupaten Tangerang,Panongan,Ciakar
+1749,Banten,455,Kabupaten Tangerang,Panongan,Mekar Jaya
+1750,Banten,455,Kabupaten Tangerang,Panongan,Panongan
+1751,Banten,455,Kabupaten Tangerang,Panongan,Peusar
+1752,Banten,455,Kabupaten Tangerang,Panongan,Ranca Iyuh
+1753,Banten,455,Kabupaten Tangerang,Panongan,Ranca Kalapa
+1754,Banten,455,Kabupaten Tangerang,Panongan,Serdang Kulon
+1755,Banten,455,Kabupaten Tangerang,Panongan,Mekar Bakti
+1756,Banten,455,Kabupaten Tangerang,Pasar Kemis,Gelam Jaya
+1757,Banten,455,Kabupaten Tangerang,Pasar Kemis,Pangadegan
+1758,Banten,455,Kabupaten Tangerang,Pasar Kemis,Pasar Kemis
+1759,Banten,455,Kabupaten Tangerang,Pasar Kemis,Suka Asih
+1760,Banten,455,Kabupaten Tangerang,Pasar Kemis,Sukamantri
+1761,Banten,455,Kabupaten Tangerang,Pasar Kemis,Kuta Baru
+1762,Banten,455,Kabupaten Tangerang,Pasar Kemis,Kutabumi
+1763,Banten,455,Kabupaten Tangerang,Pasar Kemis,Kuta Jaya
+1764,Banten,455,Kabupaten Tangerang,Pasar Kemis,Sindangsari
+1765,Banten,455,Kabupaten Tangerang,Rajeg,Daon
+1766,Banten,455,Kabupaten Tangerang,Rajeg,Jambu Karya
+1767,Banten,455,Kabupaten Tangerang,Rajeg,Lembangsari
+1768,Banten,455,Kabupaten Tangerang,Rajeg,Mekarsari
+1769,Banten,455,Kabupaten Tangerang,Rajeg,Pangarengan
+1770,Banten,455,Kabupaten Tangerang,Rajeg,Rajeg
+1771,Banten,455,Kabupaten Tangerang,Rajeg,Rajeg Mulya
+1772,Banten,455,Kabupaten Tangerang,Rajeg,Ranca Bango
+1773,Banten,455,Kabupaten Tangerang,Rajeg,Sukamanah
+1774,Banten,455,Kabupaten Tangerang,Rajeg,Sukasari
+1775,Banten,455,Kabupaten Tangerang,Rajeg,Tanjakan
+1776,Banten,455,Kabupaten Tangerang,Rajeg,Tanjakan Mekar
+1777,Banten,455,Kabupaten Tangerang,Rajeg,Sukatani
+1778,Banten,455,Kabupaten Tangerang,Sepatan,Karet
+1779,Banten,455,Kabupaten Tangerang,Sepatan,Kayu Agung
+1780,Banten,455,Kabupaten Tangerang,Sepatan,Kayu Bongkok
+1781,Banten,455,Kabupaten Tangerang,Sepatan,Mekar Jaya
+1782,Banten,455,Kabupaten Tangerang,Sepatan,Pisangan Jaya
+1783,Banten,455,Kabupaten Tangerang,Sepatan,Pondok Jaya
+1784,Banten,455,Kabupaten Tangerang,Sepatan,Sarakan
+1785,Banten,455,Kabupaten Tangerang,Sepatan,Sepatan
+1786,Banten,455,Kabupaten Tangerang,Sepatan Timur,Gempol Sari
+1787,Banten,455,Kabupaten Tangerang,Sepatan Timur,Jati Mulya
+1788,Banten,455,Kabupaten Tangerang,Sepatan Timur,Kampung Kelor
+1789,Banten,455,Kabupaten Tangerang,Sepatan Timur,Kedaung Barat
+1790,Banten,455,Kabupaten Tangerang,Sepatan Timur,Lebak Wangi
+1791,Banten,455,Kabupaten Tangerang,Sepatan Timur,Pondok Kelor
+1792,Banten,455,Kabupaten Tangerang,Sepatan Timur,Sangiang
+1793,Banten,455,Kabupaten Tangerang,Sepatan Timur,Tanah Merah
+1794,Banten,455,Kabupaten Tangerang,Sindang Jaya,Badak Anom
+1795,Banten,455,Kabupaten Tangerang,Sindang Jaya,Sindangasih
+1796,Banten,455,Kabupaten Tangerang,Sindang Jaya,Sindang Jaya
+1797,Banten,455,Kabupaten Tangerang,Sindang Jaya,Sindangpanon
+1798,Banten,455,Kabupaten Tangerang,Sindang Jaya,Sindangsono
+1799,Banten,455,Kabupaten Tangerang,Sindang Jaya,Sukaharja
+1800,Banten,455,Kabupaten Tangerang,Sindang Jaya,Wanakerta
+1801,Banten,455,Kabupaten Tangerang,Solear,Cikareo
+1802,Banten,455,Kabupaten Tangerang,Solear,Cikasungka
+1803,Banten,455,Kabupaten Tangerang,Solear,Cikuya
+1804,Banten,455,Kabupaten Tangerang,Solear,Cireundeu
+1805,Banten,455,Kabupaten Tangerang,Solear,Munjul
+1806,Banten,455,Kabupaten Tangerang,Solear,Pasanggrahan
+1807,Banten,455,Kabupaten Tangerang,Solear,Solear
+1808,Banten,455,Kabupaten Tangerang,Sukadiri,Buaran Jati
+1809,Banten,455,Kabupaten Tangerang,Sukadiri,Gintung
+1810,Banten,455,Kabupaten Tangerang,Sukadiri,Karang Serang
+1811,Banten,455,Kabupaten Tangerang,Sukadiri,Kosambi
+1812,Banten,455,Kabupaten Tangerang,Sukadiri,Mekar Kondang
+1813,Banten,455,Kabupaten Tangerang,Sukadiri,Pekayon
+1814,Banten,455,Kabupaten Tangerang,Sukadiri,Rawa Kidang
+1815,Banten,455,Kabupaten Tangerang,Sukadiri,Sukadiri
+1816,Banten,455,Kabupaten Tangerang,Sukamulya,Benda
+1817,Banten,455,Kabupaten Tangerang,Sukamulya,Bunar
+1818,Banten,455,Kabupaten Tangerang,Sukamulya,Buniayu
+1819,Banten,455,Kabupaten Tangerang,Sukamulya,Kaliasin
+1820,Banten,455,Kabupaten Tangerang,Sukamulya,Kubang
+1821,Banten,455,Kabupaten Tangerang,Sukamulya,Merak
+1822,Banten,455,Kabupaten Tangerang,Sukamulya,Parahu
+1823,Banten,455,Kabupaten Tangerang,Sukamulya,Sukamulya
+1824,Banten,455,Kabupaten Tangerang,Teluknaga,Babakan Asem
+1825,Banten,455,Kabupaten Tangerang,Teluknaga,Bojong Renged
+1826,Banten,455,Kabupaten Tangerang,Teluknaga,Kampung Besar
+1827,Banten,455,Kabupaten Tangerang,Teluknaga,Kampung Melayu Barat
+1828,Banten,455,Kabupaten Tangerang,Teluknaga,Kampung Melayu Timur
+1829,Banten,455,Kabupaten Tangerang,Teluknaga,Keboncau
+1830,Banten,455,Kabupaten Tangerang,Teluknaga,Lemo
+1831,Banten,455,Kabupaten Tangerang,Teluknaga,Muara
+1832,Banten,455,Kabupaten Tangerang,Teluknaga,Pangkalan
+1833,Banten,455,Kabupaten Tangerang,Teluknaga,Tanjung Burung
+1834,Banten,455,Kabupaten Tangerang,Teluknaga,Tanjung Pasir
+1835,Banten,455,Kabupaten Tangerang,Teluknaga,Tegal Angus
+1836,Banten,455,Kabupaten Tangerang,Teluknaga,Teluknaga
+1837,Banten,455,Kabupaten Tangerang,Tigaraksa,Bantar Panjang
+1838,Banten,455,Kabupaten Tangerang,Tigaraksa,Cileles
+1839,Banten,455,Kabupaten Tangerang,Tigaraksa,Cisereh
+1840,Banten,455,Kabupaten Tangerang,Tigaraksa,Margasari
+1841,Banten,455,Kabupaten Tangerang,Tigaraksa,Matagara
+1842,Banten,455,Kabupaten Tangerang,Tigaraksa,Pasir Bolang
+1843,Banten,455,Kabupaten Tangerang,Tigaraksa,Pasir Nangka
+1844,Banten,455,Kabupaten Tangerang,Tigaraksa,Pematang
+1845,Banten,455,Kabupaten Tangerang,Tigaraksa,Pete
+1846,Banten,455,Kabupaten Tangerang,Tigaraksa,Sodong
+1847,Banten,455,Kabupaten Tangerang,Tigaraksa,Tapos
+1848,Banten,455,Kabupaten Tangerang,Tigaraksa,Tegalsari
+1849,Banten,455,Kabupaten Tangerang,Tigaraksa,Kadu Agung
+1850,Banten,455,Kabupaten Tangerang,Tigaraksa,Tigaraksa
