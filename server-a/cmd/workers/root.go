@@ -18,6 +18,17 @@ var (
 	cfg *config.Config
 )
 
+func cleanup() {
+	logger.Log.Info("Running cleanup...")
+
+	if provider.GRPCUserClient != nil {
+		provider.GRPCUserClient.Close()
+		logger.Log.Info("gRPC client connection closed")
+	}
+
+	logger.Log.Info("Cleanup completed")
+}
+
 func Start() {
 	cfg = config.InitConfig()
 	logger.SetZerologLogger(cfg)
@@ -25,7 +36,7 @@ func Start() {
 
 	ctx, cancel := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
 	defer cancel()
-
+	defer cleanup()
 	rootCmd := &cobra.Command{}
 	cmd := []*cobra.Command{
 		{
@@ -61,6 +72,7 @@ func Start() {
 
 	rootCmd.AddCommand(cmd...)
 	if err := rootCmd.Execute(); err != nil {
+		cleanup()
 		log.Fatal(err)
 	}
 }

@@ -33,9 +33,9 @@ func gRPCProvideUserModule(cfg *config.Config) {
 	if store == nil {
 		store = transactor.NewTransactor(db)
 	}
-	client, err := clientgrpc.NewUserClient(cfg)
-	if err != nil {
-		logger.Log.Fatal("failed to create NewUserClient: ", err)
+	client := clientgrpc.NewUserClient(cfg)
+	if client == nil {
+		logger.Log.Error("failed to create gRPC client")
 	}
 	GRPCUserClient = client
 	injectUserModuleRepository()
